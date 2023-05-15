@@ -832,7 +832,11 @@ Which singer or musician would you like to see in the concert that is going to b
 
 # Part 2&3
 
-## 2.1 structure
+## 2.1 structure 2
+
+ Honestly speaking, when it comes to a game that I played in my childhood, I must admit, it's none other than.
+
+choose because
 
  It all started when, to begin/start with, to start off, It all began when, In the beginning
 when you visited therecome to think of it, if I remember clearly, as far as I know, as (far as) I recall, if my memory serves me right, if I'm not mistaken..
@@ -843,18 +847,254 @@ to make a long story short, at the end of the day, all things considered, in the
 
 and future aspect
 
-## 2.2 examples
+## 2.2 structure 3
 
-### 2.2.1 long car journey
+Example Question: **How can rivers/lakes benefit local people?**
 
-**Describe a long car journey you went on.**
+1st part: Paraphrase your response/Introduction based on the question
 
+To tell you the truth, there are many ways that rivers/lakes can be advantageous for local residents....
+As a matter of fact, there are various ways rivers/lakes can be advantageous for local residents...
+As far as I'm concerned, there are numerous ways rivers/lakes can be advantageous for local residents...
+Personally speaking, there are a variety of ways rivers/lakes can be advantageous for local residents..
+
+Reason Question:  **Why is it more difficult for children to concentrate nowadays than in the past?**
+
+1st part: Paraphrase your response/Introduction based on the question
+
+Ways to make your introduction:
+
+To tell you the truth, there are many reasons why it's challenging for children to focus nowadays...
+As a matter of fact,, there are various reasons why it's challenging for children to focus nowadays..
+As far as I'm concerned, there are numerous reasons why it's challenging for children to focus nowadays..
+Personally speaking, there are a variety of reasons why it's challenging for children to focus nowadays..
+
+2nd Part: Provide 2 reasons
+
+Beginning Phrases to use: First and foremost, In the first place, To begin with, First of all, before anything else, To start with, For starters..
+
+Reason 1: There are so many distractions for children nowadays like online games, movies that children lose focus..
+
+Middle Phrases to use: Another thing that comes to mind, And one more thing worth mentioning, It also should be noted that, It is noteworthy to add that, Another good example of this is, Another reason for this.. 
+
+Reason 2: Children have so much pressure on their academics, they have to spend a lot of time doing homework and study activities that they lose concentration because they get too tired..
+
+Choice Questions:  **What’s more important: to keep old friendships or make new friends?**
+
+1. Choice 1 (to keep old friendships)
+
+2nd Part: Provide 2 reasons why..
+
+2. Choice 2 (make new friends)
+
+2nd Part: Provide 2 reasons why..
+
+3. Both. Choice 1 (to keep old friendships) and Choice 2 (make new friends)
+
+2nd Part: Provide 1 reason why you chose Choice 1 and 1 reason why you chose Choice 2
+
+## 2.3 examples
+
+### 2.3.1 inventions
+
+Describe an invention
 You should say:
+What the invention is
+How you use this invention
+Whether it is difficult to use it
 
-Where you went
+ Honestly speaking, when it comes to an invention that I use on a regular basiss, I must admit, it's none other than.
 
-What you did there
+ i choose this invention because  incredibly convenient and quick, in addition to that it has completely transformed the way we conduct financial transactions.
 
-Who you went there with
+ to begin/start with, you need to have a smartphone and a mobile payment app such as Google Pay, Samsung Pay, or Apple Pay installed on your device. You can then link your bank account or credit/debit card to your mobile payment app.
 
-And explain why you went on that journey by car
+ It also should be noted that when making a purchase in person at a retail store, you simply need to open the mobile payment app, select the card you want to use, and tap your phone on the contactless payment terminal. The payment is almost instant, and you do not need to swipe your card or enter a PIN. Making a mobile payment for an online purchase is similar. You select the mobile payment option during checkout, confirm the transaction on your phone, and the transaction is complete.
+
+Overall, I think mobile payment is relatively easy to use, especially as mobile payment apps become more intuitive and widely adopted. It is also a more secure payment method compared to traditional payment methods as your sensitive information is securely stored within your mobile payment app.
+
+in the future,In the long run, I believe that mobile payments will become the primary way that people conduct their transactions. From this moment on, I plan to continue using mobile payments whenever I can, and I would encourage others to do the same.
+
+1. **Are there inventions that have changed the world? How?**
+
+To tell you the truth, there have been many inventions that have had a profound impact on the world. I will give a few reasons to explain how they changed the world.
+
+First and foremost,  Many inventions have greatly improved the quality of life for people all over the world.For example, the invention of medical technologies such as X-rays, antibiotics, or pacemakers have saved countless lives and improved the health of millions. In addition, other inventions such as electricity, running water, or the telephone have made people’s lives more comfortable and convenient.
+
+ Another thing that comes to mind, Inventions have also been a driving force behind economic growth and progress. For instance, the printing press, industrial machinery, and the internet have all brought about significant changes in industries such as publishing, manufacturing, and communication. These changes have allowed countries to become more productive, create new jobs, and generate wealth.
+
+**What are the qualities of a scientist?**
+
+Frankly speaking scientists possess several important qualities that enable them to conduct research effectively.. ,In my opinion,the two most important are Passion for discovery and patience.
+
+First and foremost, A scientist must enjoy the process of discovery and be motivated by the desire to learn more about the natural world. This passion drives scientists to ask questions, conduct research, and seek out new knowledge.
+
+  It also should be noted that Scientific research often requires significant amounts of time and resources, and results may take months or even years to appear. Scientists must be patient and persistent in their work in order to gather the needed data and draw valid conclusions.
+
+**Do all inventions bring benefits to our world?**
+
+In my opinion, not all inventions bring benefits to our world, some inventions have also had negative consequences
+
+first, plastic was invented to be a versatile and durable material that could be used in many different products and industries. However, plastic has also led to significant environmental problems, particularly in the form of plastic pollution in oceans and other ecosystems.
+
+ Another thing that comes to mind  is cigarettes. While cigarettes were invented as a recreational product, they have caused significant harm to human health and have contributed to numerous health problems, including lung cancer, heart disease, and other chronic illnesses.
+
+**Do you think people who have not been educated in school can invent things?**
+
+ I definitely believe that people who have not been formally educated in school can invent things. While education can certainly be beneficial and provide individuals with valuable knowledge and skills, it is not a requirement for innovation
+
+Firstly, many of the greatest inventors throughout history did not have formal education in their fields. Take, for example, the story of Alexander Graham Bell, the inventor of the telephone. Bell was not an engineer or scientist. However, he was incredibly inventive and curious,,   which led to the invention of the telephone, which revolutionized communication around the world.
+
+Secondly, a lack of formal education can sometimes even be an advantage for an inventor. Without the constraints of traditional thinking and conventional wisdom in a particular field, individuals may be able to think more creatively and outside of the box. 
+
+**Who should support and sponsor inventors, governments or private companies?**
+
+In my opinion, both governments and private companies have an important role to play in supporting and sponsoring inventors. The most effective approach will depend on the specific context of the invention and the goals of the innovation.
+
+Firstly, government sponsorship can be particularly useful for projects with a clear public benefit or goal. For example, a government may fund research on a new vaccine or invest in renewable energy research. These types of inventions have a clear public benefit, which makes it appropriate for the government to support their development.
+
+Secondly, private companies can be the primary source of innovation, particularly when it comes to commercial inventions with a profit motive. Private companies have the resources to invest in research and development, and they may also have the knowledge and expertise to bring a product to market successfully.
+
+**What inventions do you think should be improved?**
+
+As far as I'm concerned,There are plenty of inventions that could benefit from improvement in order to make them more efficient, sustainable, or environmentally friendly. Two examples of inventions that could be improved include traditional plastics and home appliances.
+
+Plastics have brought a wealth of benefits to society, but their production and disposal also present significant environmental concerns related to pollution and waste. To address these concerns, research and development should focus on improving traditional plastics, exploring the plastics that can break down naturally in the environment.
+
+Another thing that comes to mindis that Home appliances such as washing machines, refrigerators and air conditioners can be improved to be more energy efficient and sustainable. For instance, more efficient  air conditioner  systems can help reduce greenhouse gas emissions and other harmful substances generated by energy usage. 
+
+### 2.3.2 shop
+
+**Describe a new shop that recently opened in your city/town.**
+
+**You should say:**
+
+**Where the shop is**
+
+**What it sells**
+
+**What kinds of people usually go to this shop**
+
+**And explain how successful you think it will be in the future**
+
+response:
+
+reason:
+
+one
+
+two
+
+three
+
+four
+
+**What kinds of shops are popular in your city?**
+
+As a matter of fact,there is a diverse range of shops catering to various interests and lifestyles. Some of the most popular types of shops in my city are large chain stores and outdoor gear stores.
+
+Large chain stores, such as supermarkets and department stores, are popular in my city. These stores are known for their wide range of products at affordable prices, and they attract a large number of shoppers. Many of these stores can be found in centralized locations, making them convenient for those looking to purchase many things at once.
+
+Outdoor gear stores also thrive in my city . These stores offer a wide range of outdoor-specific equipment, clothing, and footwear. The staff is often knowledgeable about the products and can offer advice on the best equipment for different activities and skill levels. These stores attract those who enjoy outdoor activities such as hiking, camping, and skiing.
+
+**Why do young people enjoy going to some boutiques?**
+
+As a matter of fact,, there are various reasons why 
+
+One reason young people enjoy going to boutiques is that they receive personalized attention from staff. In boutique stores, don’t expect a rush or hustle environment, staff welcome and engage shoppers in a sincere way helping tailoring their shopping experience. This is a refreshing change from larger chain stores, where staff can be busy with other tasks or too focused on sales goals to provide attentive service. 
+
+Additionally, boutiques often feature unique items that aren’t found in chain stores. Boutique owners often carefully select each item in their store, ensuring that everything is on trend and fashion-forward. This exclusive selection appeals to young shoppers looking for something that stands out and reflects their individual style.
+
+
+
+**Do you think location is the key factor that attracts customers?**
+
+A store’s product selection and quality have a significant impact on customer attraction and retention. Even if a store is in a convenient location, customers will not return if the products do not meet their needs.
+
+with e-commerce and online shopping, location is becoming less important. Customers can purchase products from all over the world online, and in some cases, they can even have same-day delivery.
+
+
+
+### 2.3.3 childhood experience
+
+Describe a happy experience in your childhood
+You should say:
+What it is
+Who you were with
+What you did
+And explain why you felt happy
+
+**response:**an experience 
+
+**reason:** Going on a family vacation to the beach was a special event and it left a lasting impression on me. 
+
+**one:** all started when  I was around 8 years old at the time and I went with my parents and my younger sister.as far as recall, We stayed in a cozy little cottage right by the ocean and spent our days playing in the sand and swimming in the sea.
+
+**two:**during the day, We collected seashells and made necklaces out of them. We also went on a boat ride to see dolphins and other marine life. It was amazing to see these creatures up close in their natural habitat.In the evenings, we would have barbecues . We would sit together and watch the sunset, the sky turning brilliant shades of pink and orange. My parents would tell us stories and we would laugh and talk until it was time for bed.
+
+**three:**I felt so happy during that vacation because I was surrounded by my family and we were all having a great time together. The beach was beautiful and there was always something fun to do. 
+
+**future aspect**: In the future, I hope to recreate that experience by taking my own family on a beach vacation. I want to share the joy and happiness that I felt with my loved ones and to create new memories together.
+
+
+
+
+
+Part 3
+
+**Why do you think some people have better memory than others?**
+
+**response:** several reasons why some people may have better memory than others. 
+
+**one** genetics can play a role in memory ability. Some people may be born with a natural aptitude for remembering information, while others may need to work harder to improve their memory skills.
+
+**two**lifestyle factors can also affect memory. For example, regular exercise and a healthy diet have been shown to improve cognitive function and memory. On the other hand, chronic stress and lack of sleep can negatively impact memory.
+
+**What kinds of things do people prefer to remember nowadays?**
+
+**response:**People may prefer to remember different things depending on their individual interests and priorities.
+
+**one** many people may prefer to remember important dates and events, such as birthdays, anniversaries, and appointments. Remembering these dates can help people to stay organized and to maintain strong relationships with others.
+
+**two** some people may prefer to remember information related to their hobbies or passions. For example, a sports fan may enjoy remembering statistics and records of their favorite teams and players. A music lover may enjoy remembering information of their favorite songs.
+
+**What do you think we shouldn't forget?**
+
+**response:**There are many things that we should try not to forget.
+
+**one** it’s important not to forget our personal values and principles. These guide our actions and decisions and help us to live a fulfilling and meaningful life.
+
+**two** we should also try not to forget the lessons we’ve learned from our past experiences. Our past successes and failures can teach us valuable lessons and help us to grow and improve. Remembering these lessons can help us to make better decisions in the future and to avoid repeating the same mistakes.
+
+**Why do some people remember more of their childhood than others?**
+
+**response:**
+
+**one**  the way that memories are formed and stored can vary from person to person. Some people may have a stronger ability to encode and retrieve memories from their childhood, while others may have more difficulty accessing these memories.
+
+**two**, the emotional significance of childhood experiences can also affect how well they are remembered. People may be more likely to remember events that were particularly happy, sad, or meaningful to them. On the other hand, more mundane or routine experiences may be less likely to be remembered.
+
+**What can people do to improve their memory?**
+
+**response:**
+
+**one**  people can engage in regular mental exercise to keep their minds sharp. This can include activities such as reading, solving puzzles, or learning a new skill. Challenging the brain in this way can help to improve memory and cognitive function.
+
+**two**lifestyle factors can also play a role in memory. Eating a healthy diet, getting regular exercise, and getting enough sleep can all help to improve memory. Reducing stress and practicing relaxation techniques such as meditation can also be beneficial.
+
+**What is your earliest memory that you can still remember now?**
+
+**response:**My earliest memory that I can still remember now is when I was around 4 years old and my family and I went on a trip to the park.
+
+**one**  I remember playing in the sand and building sandcastles with my siblings. It was a lot of fun and we spent the whole day there.
+
+**two**Another thing I remember from that trip is going on a boat ride with my family. We saw dolphins jumping out of the water and it was really exciting.
+
+
+
+
+
+
+
+
+
