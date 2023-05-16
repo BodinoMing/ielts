@@ -590,139 +590,217 @@ same as chocolate
 
 **Do you think it's difficult to learn a new language?**
 
-**reason:**
+**reason:**There are many challenges that come with learning a new language, such as mastering grammar rules, building vocabulary, and developing listening and speaking skills.
 
-**example:**
+**example:** For instance, when I was learning Spanish, I found it particularly challenging to understand the different verb conjugations and tenses. It took me a lot of practice and studying to feel confident using them in conversation.
 
 **Will you learn another language in the future?**
 
-**reason:**
+**reason:**I believe that learning a new language is a valuable skill that can open up many opportunities for personal and professional growth.
 
-**example:**
+**example:** For example, I would love to learn French because it would allow me to communicate with more people when traveling and also enhance my understanding of French culture and literature.
 
 **Why do people learn foreign languages?**
 
+**reason:**Some common reasons include personal interest, career advancement, travel, and communication with friendswho speak a different language.
+
+**example:** For instance, a business professional might learn Mandarin to sharpen their competitive adge and Separate himself from others, while a student might learn Spanish to expand his repertoire of abilities and skills.
+
+### 1.2.15 day off
+
+**Do you usually spend your day off with parents or friends?**
+
+**reason:** I find that spending time with my friends allows me to relax and unwind. We share common interests and enjoy doing fun activities together.
+
+**example:**For instance, on a typical day off, my friends and I might go to the beach, have a picnic in the park, or try out a new restaurant.
+
+**What do you often do on your day off?**
+
+ On my days off, I often like to engage in activities that allow me to unwind and relax.
+
+**reason:** I find that taking a break from my usual routine and doing something different helps me to feel refreshed 
+
+**example:**For instance, I might spend the day exploring a new city, trying out a new hobby, or simply spending time with friends and family. These activities allow me to disconnect from my daily responsibilities and focus on enjoying the present moment.
+
+**When was the last time you had a few days off?**
+
+The last time I had a few days off was about a month ago. I took some time off work to go on a short trip with my family.
+
+**reason:**
+
+**example:**We went to a nearby beach town and spent a few days relaxing by the ocean, trying out local restaurants, and exploring the area.  It was a great way to spend some quality time together and take a break from our usual routine.
+
+**What would you like to do if you had a day off tomorrow?**
+
+ If I were fortunate enough to have a day off tomorrow, I would seize the opportunity to engage in some leisure activities.
+
+**reason:**I find that taking a break from my usual routine and indulging in some relaxation is essential for maintaining my mental and emotional well-being
+
+**example:**For instance, I might  catch up on some reading at a bookstore, or take a leisurely stroll through a picturesque park. These activities would allow me to unwind and recharge my batteries.
+
+### 1.2.16 ambition and dream
+
+**Do you think you are an ambitious person?**
+
+**reason:** I have always been driven to achieve my goals and strive for success 
+
+**example:** I have worked hard to excel in my career and have set high standards for myself in terms of personal and professional development.
+
+**What was your dream when you were a child?**
+
+**reason:** I was fascinated by space exploration and the idea of traveling to other planets.
+
+**example:** I would spend hours reading books about the solar system and watching documentaries about space missions. I even had a poster of the moon on my bedroom wall and would imagine what it would be like to walk on its surface.
+
+**What is your main ambition in life now?**
+
+**reason:**is to establish myself as an expert in my field. I am dedicated to my profession and am constantly striving to expand my repertoire of abilities and skills 
+
+**example:**For example, I regularly attend conferences and workshops to stay up-to-date with the latest developments in my field. I also actively learn many new skills to Sharpen my competitive adge and Separate myself from others 
+
+**Are you the kind of person who never gives up on dreams?**
+
+**reason:** I believe that dreams give us a sense of purpose and direction in life.
+
+**example:**when I was a teenager, I dreamt of becoming a software engineer. Despite facing many challenges and obstacles along the way, I never gave up on this dream. I worked hard and persevered, and eventually, I was able to achieve my goal.
+
+### 1.2.17 rainy days
+
+**Do you like rainy days?**
+
+**reason:**I find the sound of rain to be very relaxing and calming.
+
+**example:** when it’s raining outside, I love to curl up with a good book and a cup of tea and listen to the raindrops tapping against the window. It’s a very peaceful and relaxing experience for me.
+
+**Does it rain much in your city?**
+
+**reason:**This is because my city has a humid subtropical climate, which means we get a lot of precipitation throughout the year.
+
+**example:** last month we had several days of heavy rain that caused some minor flooding in low-lying areas. It’s not uncommon for us to have rainy days several times a week during summer.
+
+**Would you like to live in a dry or wet place?**
+
+**reason:**This is because I enjoy the lush greenery and natural beauty that comes with living in a place with plenty of rainfall.
+
+**example:** For example, I love going for walks in the rain and seeing all the plants and trees come alive. The sound of raindrops on the roof is also very soothing to me. Plus, living in a wet place means there’s always plenty of water for activities like swimming and boating.
+
+**Have you cancel any plans because of rain?**
+
+**reason:**sometimes the rain can make it difficult or unsafe to carry out certain outdoor activities.
+
+**example:**For instance, last summer I had planned a picnic with some friends at a local park. However, on the day of the picnic, it started raining heavily and we had to cancel our plans. Instead, we ended up having an indoor potluck at one of my friend’s houses, which was still a lot of fun.
+
+### 1.2.18 concentration
+
+**Could you stay focused in class when you were a child?**
+
+**reason:** This is because I had good study habits and was interested in learning.
+
+**example:**For example, I would always make sure to pay attention to the teacher and take notes during class. If I found myself getting distracted, I would try to refocus by taking a deep breath and reminding myself of the importance of paying attention. 
+
+**What do you do to help you concentrate?**
+
+ eliminate distractions and create a conducive environment for focusing.
+
+**reason:**This is because I find that it’s easier to concentrate when I’m in a quiet and organized space with minimal distractions.
+
+**example:**For example, when I need to focus on a task, I’ll often put my phone on silent and close any unnecessary tabs or apps on my computer. I also like to tidy up my workspace and make sure that everything I need is within reach.All of these things help me create a focused and productive environment.
+
+**Is it difficult for you to stay focused on something?**
+
+**reason:**This is because there are often many distractions and competing priorities that can make it challenging to maintain focus.
+
+**example:** For example, if I’m working on a project at home and my phone keeps buzzing with notifications, it can be hard to resist the temptation to check it and respond to messages. Similarly, if I’m in a noisy environment or there are a lot of things going on around me, it can be difficult to tune everything out and concentrate on the task at hand. 
+
+**When do you need to be focused?**
+
+I need to be focused whenever I’m working on something important or challenging.
+
+**reason:** This is because being focused helps me to think more clearly, work more efficiently, and produce better results.
+
+**example:**For example, if I’m studying for an exam or working on a project with a tight deadline, it’s important for me to be able to concentrate and stay focused on the task at hand. Similarly, if I’m learning a new skill or trying to solve a complex problem, being focused helps me to absorb information more effectively and come up with creative solutions. 
+
+### 1.2.19 favourite day
+
+**Which day is your favorite in a week?**
+
+**reason:**because Saturday is usually a day off for me, so I have more free time to do things that I enjoy.
+
+**example:**For example, on Saturdays I might sleep in a little later than usual and then spend the day doing something fun with friends or family. Whatever I end up doing, I always look forward to Saturdays because they give me a chance to relax and recharge.
+
+**How do you usually spend your time on this day?**
+
+doing a mix of relaxing and fun activities.
+
+**reason:**I like to use my free time on Saturdays to unwind and enjoy myself.
+
+**example:**I might go for a walk or bike ride to get some exercise and fresh air. In the afternoon, I might meet up with friends for lunch or coffee, or spend some time working on a hobby or personal project. In the evening, I might go out for dinner or see a movie. Overall, I like to use my Saturdays to do things that make me happy and help me recharge for the week ahead.
+
+**Which day is your least favorite in a week?**
+
+**reason:**Monday marks the start of the workweek and can often be a busy and stressful day.
+
+**example:**For example, on Mondays I usually have to wake up early and get back into the routine of work after the weekend. There are often a lot of emails to catch up on and meetings to attend, which can make the day feel hectic and overwhelming. Additionally, the transition from the relaxed pace of the weekend to the fast pace of the workweek can be challenging. 
+
+**Is there anything you do every day?**
+
+**reason:**This is because having a routine and engaging in certain daily habits helps me to stay organized and maintain my physical and mental well-being.
+
+**example:**For example, every day I make sure to eat a healthy breakfast, brush my teeth, and get dressed. I also try to exercise for at least 30 minutes, whether that’s by going for a walk or doing a workout at home. In the evening, I usually spend some time winding down by reading or listening to music before going to bed at a reasonable time.
+
+### 1.2.20 keeping healthy
+
+**How do you keep healthy?**
+
+ eating a balanced diet, exercising regularly, and taking care of my mental health.
+
+**reason:**maintaining good physical and mental health is important for overall well-being.
+
+**example:**or example, I try to eat a variety of fruits, vegetables, whole grains, and lean proteins to fuel my body with the nutrients it needs. In terms of exercise, I aim to get at least 30 minutes of moderate physical activity most days of the week, whether that’s through walking, running, cycling, or doing yoga. Additionally, I take care of my mental health by practicing mindfulness, managing stress through relaxation techniques, and getting enough sleep. 
+
+**What is your favorite sport?**
+
+**reason:**I enjoy the fast-paced nature of the game and the skill and strategy involved.
+
+**example:** For example, I love the feeling of hitting a powerful smash or making a delicate drop shot. I also enjoy the challenge of trying to anticipate their next move. Additionally, badminton is a great workout and helps me to improve my agility and coordination.
+
+**Are there any classes about keeping healthy in your school?**
+
+**reason:** my school recognizes the importance of promoting good health and wellness among its students.
+
+**example:**, there are classes on nutrition and healthy eating, where students learn about the importance of a balanced diet and how to make healthy food choices. Additionally, there are classes on stress management and mental health that provide students with tools and techniques for managing stress and taking care of their mental well-being. 
+
+ **Do you have any advice on keeping healthy for youngsters?**
+
+**reason:**developing good health habits at a young age can set the foundation for a lifetime of good health.
+
+**example:** For example, I would advise youngsters to eat a balanced diet that includes plenty of fruits, vegetables, whole grains, and lean proteins. It’s also important to stay active by engaging in regular physical activity.Additionally, getting enough sleep and managing stress through relaxation techniques or mindfulness practices can help to support good mental health. 
+
+### 1.2.21 Art
+
+**Do you like art?**
+
 **reason:**
 
 **example:**
 
-### 1.2.15 day off
+**Have you ever visited an art gallery?**
 
-Do you usually spend your day off with parents or friends?
+**reason:**
 
-reason:
+**example:**
 
-example:
+**Do you want to be an artist?**
 
-What do you often do on your day off?
+**reason:**
 
-reason:
+**example:**
 
-example:
+**Do you like modern art or traditional art?**
 
-When was the last time you had a few days off?
+**reason:**
 
-reason:
-
-example:
-
-What would you like to do if you had a day off tomorrow?
-
-reason:
-
-example:
-
-### 1.2.16 ambition and dream
-
-Do you think you are an ambitious person?
-
-reason:
-
-example:
-
-What was your dream when you were a child?
-
-reason:
-
-example:
-
-What is your main ambition in life now?
-
-reason:
-
-example:
-
-Are you the kind of person who never gives up on dreams?
-
-reason:
-
-example:
-
-### 1.2.17 rainy days
-
-Do you like rainy days?
-
-reason:
-
-example:
-
-Does it rain much in your city?
-
-reason:
-
-example:
-
-Would you like to live in a dry or wet place?
-
-reason:
-
-example:
-
-Have you cancel any plans because of rain?
-
-reason:
-
-example:
-
-### 1.2.18 concentration
-
-Could you stay focused in class when you were a child?
-
-What do you do to help you concentrate?
-
-Is it difficult for you to stay focused on something?
-
-When do you need to be focused?
-
-### 1.2.19 favourite day
-
-Which day is your favorite in a week?
-
-How do you usually spend your time on this day?
-
-Which day is your least favorite in a week?
-
-Is there anything you do every day?
-
-### 1.2.20 keeping healthy
-
-How do you keep healthy?
-
-What is your favorite sport?
-
-Are there any classes about keeping healthy in your school?
-
- Do you have any advice on keeping healthy for youngsters?
-
-### 1.2.21 Art
-
-Do you like art?
-
-Have you ever visited an art gallery?
-
-Do you want to be an artist?
-
-Do you like modern art or traditional art?
+**example:**
 
 ### 1.2.22 keys
 
@@ -1104,7 +1182,36 @@ it also should be noted that
 
 It took me about six months to save enough money to buy the laptop. I set aside a portion of my salary each month and also cut back on some of my expenses in order to save more.
 
+# 3 important Collocations
 
+## 3.1 上进相关
 
+Expand your repertoire of abilities and skills 
+扩大技能库
+Sharpen my competitive adge 提高竞争力
+Separate myself from others 脱颖而出
+Gain a foothold in
 
+## 3.2 未来相关 
 
+被取代replaced reduce costs
+
+互联网化 Internet-based influence 
+
+## 3.3 人物相关
+
+His achievements are unparalleled .
+
+Nobody’s on a par with him.
+
+He is in a class of his own.
+
+## 3.4 同境词
+
+stressed and axious
+
+convenience and flexibility
+
+time and vigor
+
+domino effect and it's snowballs and it's bound to have great ramifactions
