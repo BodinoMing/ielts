@@ -418,9 +418,11 @@ I live in Shenyang, the capital of Liaoning Province in northeastern China.
 
 **What’s your hometown known for?**
 
-**reason**My hometown is known for its delicious food.
+known for its diverse wildlife
 
-**example**: Traditional meals in the region include stewed chicken and mushroom, and meat pie. You can find many small Chinese restaurants along the roads in almost all parts of Shenyang that serve a variety of dishes
+**reason**located near a large nature reserve that is home to many different species of animals. 
+
+**example**: Some of the most commonly seen animals in the reserve are deer, foxes, and various species of birds. There are also occasional sightings of more elusive animals like bears and wolves.
 
 **Do you like your hometown?**
 
@@ -568,41 +570,41 @@ same as chocolate
 
 **Can you make ice cream by yourself?**
 
+**reason:**I have learned how to make it at home using simple ingredients and equipment.
+
+**example:**, I can make a basic vanilla ice cream by mixing cream, sugar, and vanilla extract together and then freezing it in an ice cream maker. It’s actually quite easy and the result is delicious.
+
+### 1.2.14 language
+
+**What languages do you speak?**
+
+**reason:** Chinese is my native language and I have been speaking it since I was a child.
+
+**example :** For instance, I grew up in a Chinese-speaking family and attended school where all classes were taught in Chinese. This allowed me to develop a strong foundation in the language and become proficient in it.
+
+**Have you ever learnt any foreign languages in school?**
+
+**reason:** English is a widely spoken language and is considered an important skill to have in today’s globalized world. My school placed a strong emphasis on teaching English and provided many opportunities for students to improve their skills.
+
+**example:**For instance, I took English classes throughout my time in school and participated in many programs to practice my.. This allowed me to  gain more confidence in speaking English.
+
+**Do you think it's difficult to learn a new language?**
+
 **reason:**
 
 **example:**
 
-### 1.2.14 language
+**Will you learn another language in the future?**
 
-What languages do you speak?
+**reason:**
 
-reason:
+**example:**
 
-example:
+**Why do people learn foreign languages?**
 
-Have you ever learnt any foreign languages in school?
+**reason:**
 
-reason:
-
-example:
-
-Do you think it's difficult to learn a new language?
-
-reason:
-
-example:
-
-Will you learn another language in the future?
-
-reason:
-
-example:
-
-Why do people learn foreign languages?
-
-reason:
-
-example:
+**example:**
 
 ### 1.2.15 day off
 
@@ -770,7 +772,7 @@ Are you happy when you buy new things?
 
 When do you feel happy at work?
 
-### 1.2.27 **Outer space and stars**
+### 1.2.27 Outer space and stars
 
 Have you ever learnt about outer space and stars?
 
@@ -1034,7 +1036,7 @@ And explain why you felt happy
 
 **one:** all started when  I was around 8 years old at the time and I went with my parents and my younger sister.as far as recall, We stayed in a cozy little cottage right by the ocean and spent our days playing in the sand and swimming in the sea.
 
-**two:**during the day, We collected seashells and made necklaces out of them. We also went on a boat ride to see dolphins and other marine life. It was amazing to see these creatures up close in their natural habitat.In the evenings, we would have barbecues . We would sit together and watch the sunset, the sky turning brilliant shades of pink and orange. My parents would tell us stories and we would laugh and talk until it was time for bed.
+**two:**during the day, We collected seashells and made necklaces out of them. We also went on a boat ride to see dolphins and other marine life. It was amazing to see these creatures up close in their natural habitat.In the evenings, we would have barbecue . We would sit together and watch the sunset, the sky turning brilliant shades of pink and orange. My parents would tell us stories and we would laugh and talk until it was time for bed.
 
 **three:**I felt so happy during that vacation because I was surrounded by my family and we were all having a great time together. The beach was beautiful and there was always something fun to do. 
 
@@ -1042,7 +1044,9 @@ And explain why you felt happy
 
 
 
+Beginning Phrases to use: First and foremost, In the first place, To begin with, First of all, before anything else, To start with, For starters..
 
+Middle Phrases to use: Another thing that comes to mind, And one more thing worth mentioning, It also should be noted that, It is noteworthy to add that, Another good example of this is, Another reason for this.. 
 
 Part 3
 
@@ -1076,7 +1080,9 @@ Part 3
 
 **one**  the way that memories are formed and stored can vary from person to person. Some people may have a stronger ability to encode and retrieve memories from their childhood, while others may have more difficulty accessing these memories.
 
-**two**, the emotional significance of childhood experiences can also affect how well they are remembered. People may be more likely to remember events that were particularly happy, sad, or meaningful to them. On the other hand, more mundane or routine experiences may be less likely to be remembered.
+it also should be noted that
+
+**two**, the emotional significance of childhood experiences can also affect how well they are remembered. People may be more likely to remember events that were particularly happy, sad, or meaningful to them. On the other hand, more routine experiences may be less likely to be remembered.
 
 **What can people do to improve their memory?**
 
@@ -1092,11 +1098,11 @@ Part 3
 
 **one**  I remember playing in the sand and building sandcastles with my siblings. It was a lot of fun and we spent the whole day there.
 
-**two**Another thing I remember from that trip is going on a boat ride with my family. We saw dolphins jumping out of the water and it was really exciting.
+**two**Another thing that stands out from that memory is going on a boat ride with my family. We saw fish jumping out of the water and It was a very peaceful and happy moment for me.
 
+ It took me about six months to save enough money to buy the laptop. I set aside a portion of my salary each month and also cut back on some of my expenses in order to save more.
 
-
-
+It took me about six months to save enough money to buy the laptop. I set aside a portion of my salary each month and also cut back on some of my expenses in order to save more.
 
 
 
