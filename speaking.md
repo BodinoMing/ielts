@@ -780,139 +780,317 @@ doing a mix of relaxing and fun activities.
 
 **Do you like art?**
 
-**reason:**
+**reason:** I find it to be a great way to express myself and to appreciate the creativity of others.
 
-**example:**
+**example: **For instance, I enjoy visiting art museums and galleries to see different styles and techniques used by various artists.
 
 **Have you ever visited an art gallery?**
 
-**reason:**
+**reason:** I find that visiting art galleries is a great way to expand my knowledge and appreciation of art. 
 
-**example:**
+**example:** For example, I recently visited the UCCA Center for Contemporary Art in Beijing and was able to see many famous works of art, including paintings 
 
 **Do you want to be an artist?**
 
-**reason:**
+**reason:** While I appreciate and enjoy art, I don’t feel that I have the talent or skill to create it myself.
 
-**example:**
+**example:**For instance, I’ve tried painting and drawing in the past but found that it wasn’t something that came naturally to me.
 
 **Do you like modern art or traditional art?**
 
+ I like both modern and traditional art
+
+**reason:**: I find that both styles have their own unique qualities and can be appreciated in different ways.
+
+**example:**For instance, I enjoy the bold colors and abstract shapes of modern art, but I also appreciate the skill and technique involved in creating traditional art.
+
+### 1.2.22 keys
+
+**Do you always bring a lot of keys with you?**
+
 **reason:**
 
 **example:**
 
-### 1.2.22 keys
+**Have you ever lost your keys?**
 
-Do you always bring a lot of keys with you?
+**reason:**
 
-Have you ever lost your keys?
+**example:**
 
-How can we avoid losing keys?
+**How can we avoid losing keys?	**
+
+**reason:**
+
+**example:**
 
 ### 1.2.23 library
 
-Do you often go to the library?
+**Do you often go to the library?**
 
-What do you usually do in the library?
+**reason:**
 
-Did you go to a library when you were a kid?
+**example:**
 
-Do children in your country often go to a library?
+**What do you usually do in the library?**
+
+**reason:**
+
+**example:**
+
+**Did you go to a library when you were a kid?**
+
+**reason:**
+
+**example:**
+
+**Do children in your country often go to a library?**
+
+**reason:**
+
+**example:**
 
 ### 1.2.24 weekends
 
-What do you usually do on weekends?
+**What do you usually do on weekends?**
 
-Would you say weekends are important to us?
+**reason:**
 
-What do you plan to do for next weekend?
+**example:**
+
+**Would you say weekends are important to us?**
+
+**reason:**
+
+**example:**
+
+**What do you plan to do for next weekend?**
+
+**reason:**
+
+**example:**
 
 ### 1.2.25 stay up late
 
-Do you often stay up late?
+**Do you often stay up late?**
 
-What do you do when you stay up late?
+**reason:**
 
-How do you feel when you have stayed up late the night before?
+**example:**
+
+**What do you do when you stay up late?**
+
+**reason:**
+
+**example:**
+
+**How do you feel when you have stayed up late the night before?**
+
+**reason:**
+
+**example:**
 
 ### 1.2.26 happiness
 
-What made you happy when you were little?
+**What made you happy when you were little?**
 
-Is there anything that has made you feel happy lately?
+**reason:**
 
-What do you think will make you feel happy in the future?
+**example:**
 
-Do you think happiness is important?
+**Is there anything that has made you feel happy lately?**
 
-Are you happy when you buy new things?
+**reason:**
 
-When do you feel happy at work?
+**example:**
+
+**What do you think will make you feel happy in the future?**
+
+**reason:**
+
+**example:**
+
+**Do you think happiness is important?**
+
+**reason:**
+
+**example:**
+
+**Are you happy when you buy new things?**
+
+**reason:**
+
+**example:**
+
+**When do you feel happy at work?**
+
+**reason:**
+
+**example:**
 
 ### 1.2.27 Outer space and stars
 
-Have you ever learnt about outer space and stars?
+**Have you ever learnt about outer space and stars?**
 
-Are you interested in films about outer space and stars?
+**reason:**
 
-Do you want to go into outer space in the future?
+**example:**
+
+**Are you interested in films about outer space and stars?**
+
+**reason:**
+
+**example:**
+
+**Do you want to go into outer space in the future?**
+
+**reason:**
+
+**example:**
 
 ### 1.2.28 school
 
-Where is your school?
+**Where is your school?**
 
-Do you like your school?
+**reason:**
 
-Are you content with the learning atmosphere in your school?
+**example:**
 
-Is there anything you want to change about your school?
+**Do you like your school?**
+
+**reason:**
+
+**example:**
+
+**Are you content with the learning atmosphere in your school?**
+
+**reason:**
+
+**example:**
+
+**Is there anything you want to change about your school?**
+
+**reason:**
+
+**example:**
 
 ### 1.2.29 small business
 
-Are there any famous small businesses in the area you live in?
+**Are there any famous small businesses in the area you live in?**
 
-Do you prefer buying things from small or big companies?
+**reason:**
 
-Have you ever worked in small businesses?
+**example:**
 
-Have you ever thought about starting your own business?
+**Do you prefer buying things from small or big companies?**
 
-### 1.2.30 birthday
+**reason:**
 
-What do you usually do on your birthday?
+**example:**
 
-What did you do on your birthday when you were young?
+**Have you ever worked in small businesses?**
 
-Do you think it is important for you to celebrate your birthday
+**reason:**
+
+**example:**
+
+**Have you ever thought about starting your own business?**
+
+**reason:**
+
+**example:**
+
+### **1.2.30 birthday**
+
+**What do you usually do on your birthday?**
+
+**reason:**
+
+**example:**
+
+**What did you do on your birthday when you were young?**
+
+**reason:**
+
+**example:**
+
+**Do you think it is important for you to celebrate your birthday**
+
+**reason:**
+
+**example:**
 
 ### 1.2.31 geography
 
-Have you ever studied geography at school?
+**Have you ever studied geography at school?**
 
-Do you like geography?
+**reason:**
 
-Do you want to travel to a country because of its geographical conditions?
+**example:**
+
+**Do you like geography?**
+
+**reason:**
+
+**example:**
+
+**Do you want to travel to a country because of its geographical conditions?**
+
+**reason:**
+
+**example:**
 
 ### 1.2.32 technology
 
-What technological products do you often use, computers or mobile phones?
+**What technological products do you often use, computers or mobile phones?**
 
-What electronic devices have you bought lately?
+**reason:**
 
-Are there any technological devices you want to buy?
+**example:**
 
-What benefits does technology bring to us?
+**What electronic devices have you bought lately?**
+
+**reason:**
+
+**example:**
+
+**Are there any technological devices you want to buy?**
+
+**reason:**
+
+**example:**
+
+**What benefits does technology bring to us?**
+
+**reason:**
+
+**example:**
 
 ### 1.2.33 music
 
-Do you like music?
+**Do you like music?**
 
-What kinds of music do you like to listen to?
+**reason:**
 
-Do you enjoy the same kind of music with your friend?
+**example:**
 
-Which singer or musician would you like to see in the concert that is going to be held in your city?
+**What kinds of music do you like to listen to?**
+
+**reason:**
+
+**example:**
+
+**Do you enjoy the same kind of music with your friend?**
+
+**reason:**
+
+**example:**
+
+**Which singer or musician would you like to see in the concert that is going to be held in your city?**
+
+**reason:**
+
+**example:**
 
 # Part 2&3
 
@@ -1178,9 +1356,160 @@ it also should be noted that
 
 **two**Another thing that stands out from that memory is going on a boat ride with my family. We saw fish jumping out of the water and It was a very peaceful and happy moment for me.
 
- It took me about six months to save enough money to buy the laptop. I set aside a portion of my salary each month and also cut back on some of my expenses in order to save more.
+### 2.3.4 Clothing
 
-It took me about six months to save enough money to buy the laptop. I set aside a portion of my salary each month and also cut back on some of my expenses in order to save more.
+**Describe a piece of clothing you enjoy wearing**
+
+You should say:
+
+- What it is like
+- When and where you got it
+- How often you wear it
+- And explain why you enjoy wearing it
+
+**response:** a black leather jacket
+
+**reason:** I had been wanting a leather jacket for a long time and it was the perfect gift for me. 
+
+**one** It is a slim-fit jacket with a zipper and two pockets on the front. The jacket is made of high-quality leather and has a soft lining on the inside which makes it very comfortable to wear.
+
+**two**I got this jacket as a gift from my parents on my 18th birthday. I remember that I had been wanting a leather jacket for a long time and was thrilled when I received it as a gift. I have been wearing it ever since.
+
+**three**I wear this jacket quite often, especially during the fall and winter months. It is perfect for keeping me warm on chilly days and also adds a touch of style to my outfit. I usually wear it with jeans and boots, but it also looks great with dresses and skirts.
+
+**four**The reason why I enjoy wearing this jacket so much is that it adds a bit of edge and personality to my outfits. It’s a stylish and versatile piece that can make even a plain t-shirt and jeans look cool and stylish. I feel confident and comfortable when I wear it,
+
+In the future, I plan to continue wearing this jacket as it is a timeless piece that will never go out of style.
+
+
+Part 3
+
+Do you like buying clothes?
+
+**response:**
+
+**one**
+
+**two**
+
+What kind of clothes do people wear in your country?
+
+**response:**
+
+**one**
+
+**two**
+
+Under what circumstances will people in your country wear formal clothes?
+
+**response:**
+
+**one**
+
+**two**
+
+What is the difference between the dress of the elderly and the young in your country?
+
+**response:**
+
+**one**
+
+**two**
+
+When do people in your country wear traditional clothes?
+
+**response:**
+
+**one**
+
+**two**
+
+Does the climate affect what people wear?
+
+**response:**
+
+**one**
+
+**two**
+
+### 2.3.4 expensive gift
+
+Part2
+**Describe an expensive gift that you would like to give someone when you save a lot of money**
+
+You should say:
+
+What the gift is
+
+Who you will give the gift to
+
+How long it will take to save the money
+
+And explain why you would like to give the gift to this person.
+
+**response:**
+
+**reason:**
+
+**one**
+
+**two**
+
+**three**
+
+**four**
+
+Part 3
+
+**What do young people like to save money for?**
+
+**response:**Young people like to save money for a variety of reasons.
+
+**one**One common reason for young people to save money is to prepare themselves for unexpected events that may occur in the future. For instance, they might want to have some extra cash on hand in case of an emergency, such as a sudden illness or a job loss.
+
+**two**o achieve their long-term financial objectives. For example, they may want to save money for a down payment on a home, to start a business, or to pay for their education. By setting financial goals and saving money regularly, young people can take concrete steps towards achieving their dreams and building a secure financial future for themselves.
+
+**Is it easy for people to save money to buy something expensive?**
+
+**response:**It depends on the individual’s financial situation and priorities. 
+
+**one**some people may face unexpected emergencies or setbacks that prevent them from saving money. This could include job loss, illness, or a sudden expense that was not budgeted for. Without an emergency fund or other savings in place, these individuals may struggle to stay afloat financially, let alone save for the future.
+
+**two** For some people, saving money to buy something expensive may be easy if they have a stable income and are able to budget effectively.
+
+**Should children have pocket money? Why?**
+
+**response:**
+
+**one** One reason is that it can help children learn valuable financial lessons and develop good money management skills. By receiving a regular allowance, children can learn how to budget and plan their spending, as well as how to save for larger purchases and set financial goals.
+
+**two** it can help them feel more independent and empowered. When given their own money, children can make their own decisions about how to spend it, which can give them a greater sense of freedom and control. This can help build their confidence 
+
+**Should children learn how to use money at school or from their parents?**
+
+**response:**
+
+**one**One reason for children to learn about money at school is that it can provide them with a structured and consistent learning experience. By offering classes or programs on financial literacy, schools can ensure that all students have access to valuable resources and information about managing money, regardless of their background or home life.
+
+**two**t it can provide a more personalized and hands-on learning experience. Parents can tailor their lessons to their children’s unique needs and circumstances, and can offer guidance and support throughout the learning process. 
+
+**How do people save money?**
+
+**response:**
+
+**one** by setting short and long-term savings goals. By setting specific savings goals, individuals can work towards achieving them by allocating a portion of their income towards regular savings deposits. Short-term savings goals might include saving for a vacation or a new piece of furniture, while long-term goals might involve saving for a down payment on a home or retirement.
+
+**two** shopping second-hand. Second-hand stores offer quality items at a fraction of the original price. People can save money by purchasing clothes, furniture, and even electronic devices that are still in good working condition. Additionally, buying second-hand products encourages recycling and sustainable living, which helps to protect the environment.
+
+**Why can’t some people save money?**
+
+**response:**
+
+**one**due to a lack of financial education. Many people have never been taught how to manage their money effectively, including budgeting, saving, and investing. Without a solid understanding of financial concepts, it can be difficult for individuals to develop good financial habits and make informed decisions about their spending and saving.
+
+**two**a high cost of living. For many people, living expenses like rent, transportation, and healthcare can consume a large portion of their income, leaving little left over for saving or investing. In some cases, people may struggle to find higher-paying jobs or access affordable housing, making it even harder to save money.
+
+**three**Finally, some people may face unexpected emergencies or setbacks that prevent them from saving money. This could include job loss, illness, or a sudden expense that was not budgeted for. Without an emergency fund or other savings in place, these individuals may struggle to stay afloat financially, let alone save for the future.
 
 # 3 important Collocations
 
