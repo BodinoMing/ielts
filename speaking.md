@@ -670,7 +670,7 @@ The last time I had a few days off was about a month ago. I took some time off w
 
 **reason:**I find the sound of rain to be very relaxing and calming.
 
-**example:** when it’s raining outside, I love to curl up with a good book and a cup of tea and listen to the raindrops tapping against the window. It’s a very peaceful and relaxing experience for me.
+**example:** when it’s raining outside, I love to curl up with a good book and a cup of tea and listen to the raindrops tapping against the window. It’s a very peaceful/**tranquil** and relaxing experience for me.
 
 **Does it rain much in your city?**
 
@@ -808,289 +808,353 @@ doing a mix of relaxing and fun activities.
 
 **Do you always bring a lot of keys with you?**
 
-**reason:**
+**reason:**I prefer to keep things simple and organized, so I only carry the keys that I need for the day.
 
-**example:**
+**example:** For instance, when I go to work, I only bring my house key and my office key. This way, I don’t have to worry about losing any important keys or carrying around unnecessary weight.
 
 **Have you ever lost your keys?**
 
-**reason:**
+**reason:**It happened when I was in a rush and not paying attention to where I put them.
 
-**example:**
+**example:**One time, I was running late for an appointment and I accidentally left my keys on the counter at a coffee shop. It wasn’t until I got to my destination that I realized they were missing. Luckily, I was able to go back and retrieve them.
 
 **How can we avoid losing keys?	**
 
-**reason:**
+**reason:**One effective method is to establish a routine for where you keep them
 
-**example:**
+**example:** For example, you could always put your keys in the same pocket of your bag or hang them on a hook by the door. This way, you’ll always know where to find them and you’ll be less likely to misplace them.
+
+**Do you often forget your keys and lock yourself out?**
+
+**reason:**I have a habit of double-checking that I have everything I need before leaving the house.
+
+**example:**For instance, before I step out the door, I always make sure that I have my phone, wallet, and keys with me. This routine helps me avoid forgetting important items and getting locked out.
+
+**Do you think it is a good idea to leave your keys with a neighbour?**
+
+**reason:** It depends on the situation and the relationship with the neighbour. If you trust your neighbour and have a good relationship with them, it could be a convenient and safe option.
+
+**example:**For example, if you’re going on vacation and need someone to water your plants or check on your house, leaving a spare key with a trusted neighbour could be a good idea. However, if you don’t know your neighbour well or don’t feel comfortable giving them access to your home, it might be better to find another solution.
 
 ### 1.2.23 library
 
 **Do you often go to the library?**
 
-**reason:**
+**reason:** I find it to be a tranquil and quiet place to study and read.
 
-**example:**
+**example:**For instance, when I have an important exam coming up, I like to go to the library to review my notes and prepare. The calm atmosphere helps me focus and retain information better.
 
 **What do you usually do in the library?**
 
-**reason:**
+**reason:**The library has a wide selection of books and resources that I can use to expand my repertoire of abilities and skills 
 
-**example:**
+**example:**For instance, if I’m working on a research paper, I’ll go to the library to find books and articles on my topic. I’ll also use the library’s computers and online databases to access even more information. The library is a great resource for learning and self-improvement.
 
 **Did you go to a library when you were a kid?**
 
-**reason:**
+**reason:**My parents would take me there to borrow books and participate in reading programs.
 
-**example:**
+**example:**For instance, I remember going to the library with my mom every week to pick out new books to read. We would spend hours browsing the shelves and choosing stories that caught our interest. which helped me develop a love for reading.
 
 **Do children in your country often go to a library?**
 
-**reason:**
+**reason:** It varies depending on the location and the availability of libraries.In urban areas with well-funded libraries, it’s common for children to visit them regularly.
 
-**example:**
+**example:**For instance, in big cities, libraries often have programs and events specifically designed for children, such as storytime sessions and summer reading challenges.  However, in rural areas or places with limited library funding, children may not have as much access to libraries and may not visit them as often.
 
 ### 1.2.24 weekends
 
 **What do you usually do on weekends?**
 
-**reason:**
+**reason:** It’s a good opportunity to relax and catch up with the people I care about.
 
-**example:**
+**example:**For instance, we might go out for a meal or see a movie together. Sometimes we’ll take a day trip to a nearby town or go for a hike in the mountains. It’s a nice way to unwind and recharge after a busy week.
 
 **Would you say weekends are important to us?**
 
-**reason:**
+**reason:**They provide a break from our daily routines and allow us to rest and recharge.
 
-**example:**
+**example:** For instance, after a busy week at work or school, it’s nice to have some time off to relax and do things that we enjoy. Weekends give us the opportunity to spend time with our loved ones, pursue our hobbies, or simply take a break from the stresses of everyday life.
 
 **What do you plan to do for next weekend?**
 
+Next weekend, I plan to go on a camping trip with my friends.
+
+**reason:**We enjoy spending time outdoors and exploring new places.
+
+**example:**we’ve been planning this trip for a few weeks and have chosen a beautiful campsite by a lake. We’ll spend the weekend hiking, swimming, and sitting around the campfire. 
+
+**Do you like weekends?**
+
 **reason:**
 
 **example:**
+
+**What did you do last weekend?**
+
+**reason:**I hadn’t seen them in a while and wanted to spend some time with them.
+
+**example:** on Saturday, we went out for lunch and then took a walk in the park. On Sunday, we stayed at home and cooked a big family meal together. It was a nice weekend and I enjoyed catching up with my grandparents.
+
+**Do you make plans for your weekends?**
+
+**reason:**I like to have something to look forward to and make the most of my time off.
+
+**example:**For instance, I’ll often plan a fun outing or activity with my friends or family. We might go to a museum, see a play, or try a new restaurant. Having plans helps me stay organized and ensures that I don’t waste my weekends sitting at home.
 
 ### 1.2.25 stay up late
 
 **Do you often stay up late?**
 
-**reason:**
+**reason:** I value my sleep and try to maintain a regular sleep schedule.
 
-**example:**
+**example:**For instance, I usually go to bed around the same time every night and aim for at least 7-8 hours of sleep. This helps me feel rested and energized in the morning. Occasionally, I might stay up late for a special event or if I’m working on a project, but it’s not a regular habit.
 
 **What do you do when you stay up late?**
 
-**reason:**
+**reason:** I might have a deadline coming up or a particularly challenging task that requires extra time and effort.
 
-**example:**
+**example:** For instance, a few weeks ago I had to stay up late to finish a report for work. It was important to get it done on time, so I put in the extra hours to make sure it was completed to the best of my ability.
 
 **How do you feel when you have stayed up late the night before?**
 
-**reason:**
+**reason:**Staying up late can disrupt my normal sleep schedule and make it harder for me to feel rested and alert.
 
-**example:**
+**example:**For example, last week I stayed up late to finish a project for work. The next day, I found it difficult to concentrate and felt like I needed an extra cup of coffee to get through the day.
+
+**Did you stay up late when you were a kid?**
+
+**reason:**My parents were quite strict about bedtime and made sure that I got enough sleep to be able to focus in school the next day.
+
+**example:**For instance, I remember one time when I really wanted to stay up late to watch a movie with my family, but my parents insisted that I go to bed at my usual time. They explained that getting enough sleep was important for my health and well-being.
 
 ### 1.2.26 happiness
 
 **What made you happy when you were little?**
 
-**reason:**
+ When I was little, spending time with my family and playing with my friends made me happy.
 
-**example:**
+**reason:**Being around people I loved and having fun with them brought me joy and made me feel loved and cared for.
+
+**example:** For example, I remember going on picnics with my family and playing games with my friends at the park. Those were some of my happiest memories from when I was little.
 
 **Is there anything that has made you feel happy lately?**
 
-**reason:**
+**reason:** I’ve been able to achieve some personal goals and make progress in areas that are important to me.
 
-**example:**
+**example:**For example, I recently completed a project that I had been working on for a while. It was a challenging task, but I was able to overcome the obstacles and finish it successfully. That sense of accomplishment made me feel really happy.
 
 **What do you think will make you feel happy in the future?**
 
-**reason:**
+ pursue my passions and spending time with loved ones will make me feel happy.
 
-**example:**
+**reason:**bring me joy and fulfillment, and I believe that they will continue to do so in the future.
+
+**example:**For instance, I love to travel and explore new places. I hope to be able to do more of that in the future and have new experiences that will bring me happiness.
 
 **Do you think happiness is important?**
 
-**reason:**
+**reason:**Happiness can improve our overall well-being and quality of life. It can also have positive effects on our relationships, work, and health.
 
-**example:**
+**example:** For instance, when I’m happy, I find that I’m more productive at work and more engaged in my relationships. I also feel more energetic and motivated to take care of myself and pursue my goals.
 
 **Are you happy when you buy new things?**
 
-**reason:**
+It depends on the situation. Sometimes buying new things can make me happy, but other times it doesn’t have much of an effect on my mood.
 
-**example:**
+**reason:**If I’m buying something that I really want or need, then it can bring me joy and satisfaction. But if it’s just an impulse purchase or something that I don’t really need, then it might not make me as happy.
+
+**example:**For instance, I recently bought a new pair of running shoes that I had been wanting for a while. I was really happy when I got them because they were something that I needed and would use regularly.
 
 **When do you feel happy at work?**
 
-**reason:**
+ I feel happy at work when I’m able to accomplish my tasks and make progress on my projects.
 
-**example:**
+**reason:**Being productive and achieving my goals gives me a sense of satisfaction and fulfillment.
+
+**example:**For instance, last week I completed a challenging project that I had been working on for a while. When I finished it and saw the results of my hard work, I felt really happy and proud of what I had accomplished.
 
 ### 1.2.27 Outer space and stars
 
 **Have you ever learnt about outer space and stars?**
 
-**reason:**
+**reason:**I find the topic fascinating and have always been interested in learning more about the universe and its mysteries.
 
-**example:**
+**example:**For instance, I remember taking a class in school where we learned about the different types of stars and their characteristics. It was really interesting to learn about how they form and evolve over time.
 
 **Are you interested in films about outer space and stars?**
 
-**reason:**
+**reason:** I find the topic fascinating and enjoy watching movies that explore the mysteries of the universe.
 
-**example:**
+**example:**For instance, I recently watched a science fiction film that was set in outer space and featured a journey to a distant star. I found it really engaging and thought-provoking.
 
 **Do you want to go into outer space in the future?**
 
-**reason:**
+**reason:**The opportunity to see the Earth from above and explore the vastness of the universe would be a once-in-a-lifetime experience.
 
-**example:**
+**example:** I can imagine floating in zero gravity and looking out at the stars and planets. It would be an incredible adventure and something that I would never forget.
+
+**Do you want to know more about outer-space?**
+
+**reason:**The universe is vast and full of mysteries, and there is so much that we have yet to discover and understand.
+
+**example:** For instance, I’m interested in learning more about the different planets and moons in our solar system, as well as the possibility of life on other worlds. There’s so much to explore and learn about outer-space.
 
 ### 1.2.28 school
 
 **Where is your school?**
 
-**reason:**
+**reason:**t’s in a convenient location that’s easily accessible by public transportation.
 
-**example:**
+**example:** I can take the bus or subway to get to school, and it only takes me about 20 minutes to get there from my home.
 
 **Do you like your school?**
 
-**reason:**
+**reason:**The teachers are supportive and knowledgeable, and the curriculum is challenging and engaging.
 
-**example:**
+**example:**For instance, I have a math teacher who always takes the time to explain concepts in a clear and understandable way. She makes the subject interesting and helps me to learn and grow.
 
 **Are you content with the learning atmosphere in your school?**
 
-**reason:**
+**reason:**The school provides a supportive and engaging environment that encourages students to learn and grow.
 
-**example:**
+**example:**For instance, there are many opportunities for students to participate in extracurricular activities and clubs that help to foster a sense of community and belonging. The teachers are also supportive and provide guidance and encouragement to help us succeed.
 
 **Is there anything you want to change about your school?**
 
-**reason:**
+**reason:**While I appreciate many aspects of my school, there are always areas for improvement.
 
-**example:**
+**example:** For instance, I think it would be great if the school could offer more clubs or after-school programs related to sports, music or art. This would provide students with more opportunities to explore their interests and develop their talents.
+
+**Do you go to a good school?**
+
+**reason:** The school has a strong academic program and a supportive learning environment.
+
+**example:**For example, the teachers are knowledgeable and dedicated, and they work hard to help students achieve their full potential. The school also offers a wide range of extracurricular activities and has excellent facilities.
+
+**What are the differences between your school and other schools?**
+
+**reason:**One of the main differences is the range of programs and opportunities available to students.
+
+**example:** For instance, my school offers a wide variety of advanced courses and extracurricular activities that are not available at many other schools. This allows students to explore their interests and develop their skills in a supportive and challenging environment.
 
 ### 1.2.29 small business
 
 **Are there any famous small businesses in the area you live in?**
 
-**reason:**
+**reason:**these businesses are well-known for their high-quality products and services.
 
-**example:**
+**example:**For example, **Yipin Fresh** is a popular grocery store company that operates almost 900 fresh-food neighborhood stores in 17 Chinese towns. Another example is **Zuoyebang**, which provides online classes, courses, and personal instructor consultations for schoolchildren and preschoolers.
 
 **Do you prefer buying things from small or big companies?**
 
-**reason:**
+**reason:** I like to support local businesses and feel that small companies often offer more personalized and unique products.
 
-**example:**
+**example:**For example, when I’m shopping for gifts, I’ll often visit local boutiques and craft markets to find something special and one-of-a-kind. 
 
 **Have you ever worked in small businesses?**
 
-**reason:**
+**reason:**Since graduating, I have been working for a large company.
 
-**example:**
+**example:**For instance, after completing my degree, I was offered a position at a large multinational corporation. I have been working there ever since and have gained valuable experience in my field. While I have not had the opportunity to work for a small business, I am grateful for the opportunities and growth that my current position has provided.
 
 **Have you ever thought about starting your own business?**
 
-**reason:**
+**reason:** I am currently focused on building my career within my current company.
 
-**example:**
+**example:** For instance, I am working hard to develop my skills and advance within my current organization. While starting my own business could be an exciting opportunity, it is not something that I am currently considering.
 
 ### **1.2.30 birthday**
 
 **What do you usually do on your birthday?**
 
-**reason:**
+**reason:** I enjoy celebrating with the people who are closest to me and making memories together.
 
-**example:**
+**example:**For instance, we might go out for a nice meal or have a party at home. We’ll eat cake, exchange gifts, and enjoy each other’s company. It’s always a fun and special day.
 
 **What did you do on your birthday when you were young?**
 
-**reason:**
+**reason:** My parents would organize a fun celebration for me and invite all of my friends.
 
-**example:**
+**example:**For instance, we might have a party at home with games and activities, or go to a fun location like a bowling alley or amusement park. We would eat cake, open presents, and have a great time together. It was always a special day that I looked forward to.
 
 **Do you think it is important for you to celebrate your birthday**
 
-**reason:**
+**reason:**Celebrating my birthday is a way for me to mark the passing of another year and reflect on my accomplishments and growth.
 
-**example:**
+**example:**For instance, on my birthday, I like to take some time to think about all that I have achieved in the past year and set goals for the future. It’s also a great opportunity to spend time with loved ones and create new memories.
 
 ### 1.2.31 geography
 
 **Have you ever studied geography at school?**
 
-**reason:**
+**reason:**I took a geography class in high school because I was interested in learning about different countries and cultures.
 
-**example:**
+**example:**One of my favorite topics that we covered in the class was the geography of South America. We learned about the Amazon rainforest and the Andes mountains, and it was fascinating to see how the physical geography of the region influenced its history and culture.
 
 **Do you like geography?**
 
-**reason:**
+**reason:** I find it fascinating to learn about the world and how different places and cultures are interconnected.
 
-**example:**
+**example:** I recently read an article about how the geography of the Mediterranean region has influenced its history and culture. It was interesting to see how the sea has served as both a barrier and a bridge between different civilizations.
 
 **Do you want to travel to a country because of its geographical conditions?**
 
-**reason:**
+**reason:** I love exploring new places and experiencing different natural environments.
 
-**example:**
+**example:** I have always wanted to visit Iceland because of its unique geography. The country is known for its stunning landscapes, including glaciers, geysers, and volcanoes. I think it would be an amazing experience to see these natural wonders in person.
 
 ### 1.2.32 technology
 
 **What technological products do you often use, computers or mobile phones?**
 
-**reason:**
+**reason:**I use a computer for work and for tasks that require a larger screen or more processing power. I use a mobile phone for communication and for tasks that I need to do on-the-go.
 
-**example:**
+**example:**For instance, when I’m working on a project that involves creating a presentation or analyzing data, I prefer to use a computer because it’s easier to work with multiple windows and applications. But when I’m out and about, I rely on my mobile phone to stay connected with friends and family, check my email, and access information.
 
 **What electronic devices have you bought lately?**
 
-**reason:**
+**reason:**My old laptop was starting to slow down and I needed a more powerful device for work.
 
-**example:**
+**example:** I did some research and decided to buy a laptop with a fast processor and plenty of storage. It has made a big difference in my productivity and I’m really happy with my purchase.
 
 **Are there any technological devices you want to buy?**
 
-**reason:**
+**reason:** I enjoy trying out new gadgets and staying up-to-date with the latest technology.
 
-**example:**
+**example:** For instance, I’ve been thinking about getting a smartwatch. I like the idea of being able to track my fitness and receive notifications without having to constantly check my phone. I’ve also been considering getting a smart home assistant to help me manage my household tasks more efficiently.
 
 **What benefits does technology bring to us?**
 
-**reason:**
+**reason:** It makes our lives easier, more convenient, and more connected.
 
-**example:**
+**example:**For instance, technology has revolutionized the way we communicate. We can now easily stay in touch with friends and family all over the world through instant messaging. Technology has also made it easier to access information and entertainment, with a wealth of knowledge and content available at our fingertips.
 
 ### 1.2.33 music
 
 **Do you like music?**
 
-**reason:**
+**reason:**I find that music has the power to evoke emotions and memories, and it can be a great source of comfort and inspiration.
 
-**example:**
+**example:**For instance, I have a playlist of songs that always puts me in a good mood. Whenever I’m feeling down or stressed, I put on my headphones and listen to some upbeat tunes. It never fails to lift my spirits and put a smile on my face.
 
 **What kinds of music do you like to listen to?**
 
-**reason:**
+**reason:** I enjoy discovering new artists and sounds, and I find that different types of music can suit different moods and situations.
 
-**example:**
+**example:**For instance, when I’m working out, I like to listen to upbeat pop or hip-hop music to keep me motivated. When I’m relaxing at home, I might put on some jazz or classical music. And when I’m driving, I often listen to rock or indie music.
 
 **Do you enjoy the same kind of music with your friend?**
 
-**reason:**
+**reason:**We have similar tastes and often share recommendations with each other.
 
-**example:**
+**example:**For instance, we both love indie rock and often go to concerts together. We also enjoy discovering new artists and sharing our favorite songs with each other. It’s always fun to bond over our shared love of music.
 
 **Which singer or musician would you like to see in the concert that is going to be held in your city?**
 
-**reason:**
+**reason:** I enjoy live music and I think it’s a great opportunity to see some of my favorite artists in person.
 
-**example:**
+**example:**For instance, I’m a big fan of the singer Jay Chou. He’s known for his unique blend of pop, R&B, and traditional Chinese music. If he were to perform in my city, I would definitely try to get tickets to see him live.
 
 # Part 2&3
 
@@ -1481,25 +1545,25 @@ Part 3
 
 **response:**
 
-**one** One reason is that it can help children learn valuable financial lessons and develop good money management skills. By receiving a regular allowance, children can learn how to budget and plan their spending, as well as how to save for larger purchases and set financial goals.
+**one** One reason is that it can help children learn valuable financial lessons and develop good money management skills. By receiving a regular allowance, children can learn how to budget and plan their spending, which helps them develop a sense of financial responsibility from an early age
 
-**two** it can help them feel more independent and empowered. When given their own money, children can make their own decisions about how to spend it, which can give them a greater sense of freedom and control. This can help build their confidence 
+**two** it can help them feel more independent and empowered. When given their own money, children can make their own decisions about how to spend it, which can give them a greater sense of freedom and control. This can help build their confidence and decision-making skills
 
 **Should children learn how to use money at school or from their parents?**
 
 **response:**
 
-**one**One reason for children to learn about money at school is that it can provide them with a structured and consistent learning experience. By offering classes or programs on financial literacy, schools can ensure that all students have access to valuable resources and information about managing money, regardless of their background or home life.
+**one**One reason for children to learn about money at school is that it canprovide a structured curriculum that teaches children about financial concepts, such as budgeting, saving, and investing. schools can ensure that all students have access to valuable resources and information about managing money, regardless of their background or home life.
 
-**two**t it can provide a more personalized and hands-on learning experience. Parents can tailor their lessons to their children’s unique needs and circumstances, and can offer guidance and support throughout the learning process. 
+**two** they can provide real-life examples and practical lessons on money management. Parents can involve children in household budgeting, allowance systems, and decision-making processes. Parents can tailor their lessons to their children’s unique needs and circumstances, and can offer guidance and support throughout the learning process. 
 
 **How do people save money?**
 
 **response:**
 
-**one** by setting short and long-term savings goals. By setting specific savings goals, individuals can work towards achieving them by allocating a portion of their income towards regular savings deposits. Short-term savings goals might include saving for a vacation or a new piece of furniture, while long-term goals might involve saving for a down payment on a home or retirement.
+**one** First and foremost, one common way people save money is through budgeting. By creating a detailed budget, individuals can allocate specific amounts for various expenses and prioritize savings. 
 
-**two** shopping second-hand. Second-hand stores offer quality items at a fraction of the original price. People can save money by purchasing clothes, furniture, and even electronic devices that are still in good working condition. Additionally, buying second-hand products encourages recycling and sustainable living, which helps to protect the environment.
+**two** many people opt for automated systems that transfer a predetermined amount from their income directly into a savings account. Additionally, buying second-hand products encourages recycling and sustainable living, which helps to protect the environment.
 
 **Why can’t some people save money?**
 
@@ -1510,6 +1574,75 @@ Part 3
 **two**a high cost of living. For many people, living expenses like rent, transportation, and healthcare can consume a large portion of their income, leaving little left over for saving or investing. In some cases, people may struggle to find higher-paying jobs or access affordable housing, making it even harder to save money.
 
 **three**Finally, some people may face unexpected emergencies or setbacks that prevent them from saving money. This could include job loss, illness, or a sudden expense that was not budgeted for. Without an emergency fund or other savings in place, these individuals may struggle to stay afloat financially, let alone save for the future.
+
+### 2.3.5 **Describe a famous person you are interested in**
+
+**Who he/she is**
+**How you knew about him/her**
+**What he/she was like before he/she became famous**
+**And explain why you are interested in him/her**
+
+**response:**Tom Hanks
+
+**reason:**be  drawn to  his talent and dedication to his craft
+
+**one:** I first learned about him when I saw him in the movie “Forrest Gump”,.
+
+**two:**Before he became famous, Tom Hanks was just a regular guy growing up in California. He studied theater in college and eventually moved to New York to pursue a career in acting. He started out in small roles on television and eventually landed his first major film role in the movie “Splash”.
+
+**three:**He has a unique ability to bring depth and humanity to his characters, and he has consistently delivered outstanding performances throughout his career. I also admire him for the way he has used his platform to support important causes and make a positive impact on the world.
+
+**future aspect:**continue to support his movies, and encourage others to learn about him
+
+**Part 3**
+
+**Do you think media is putting too much attention on famous people?**
+
+**response:**
+
+**one:**One reason for this is that celebrity culture has become a major part of our society. Many people are fascinated by the lives of the rich and famous, and the media caters to this demand by providing extensive coverage of their every move.
+
+**two:**Another reason why the media may focus too much on famous people is that it can be a way to generate revenue. Celebrity news and gossip often attracts a large audience, which can translate into more advertising dollars for media outlets.
+
+**Do you think famous people are necessarily good in their fields?**
+
+**response:**No, I don’t think that being famous necessarily means that someone is good in their field.
+
+**one:**One reason for this is that fame and success are not always directly correlated with talent or skill. Sometimes people become famous for reasons other than their abilities in their chosen field.
+
+**two:**Another reason why fame does not necessarily indicate skill is that the media and public can be fickle. Someone who is famous one day might be forgotten the next, regardless of their actual abilities.an actor might have a breakout role but then fail to land any significant parts afterwards. 
+
+**What are the differences between famous people today and those in the past?**
+
+**response:**
+
+**one:**
+
+**two:**
+
+**What kinds of famous people are there in your country?**
+
+**response:**
+
+**one:**
+
+**two:**
+
+**Why are some kids popular at school?**
+
+**response:**
+
+**one:**
+
+**two:**
+
+**Why do some people become famous but not successful?**
+
+**response:**
+
+**one:**
+
+**two:**
 
 # 3 important Collocations
 
