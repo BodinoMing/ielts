@@ -83,23 +83,35 @@ down the line..
 
 ### 1.2.1 T-shirts
 
-1. **Do you like wearing T-shirts?**
+**Do you like wearing T-shirts?**
 
-**reason**:  because they are very comfortable to wear, especially during the hot summer months.
+**reason**:  because they are very **comfortable** to wear, especially during the hot summer months.
 
 **examples:**For instance, last summer, I went on a hiking trip with some friends, and I wore a T-shirt for the entire hike. Even though we were sweating a lot, I didn’t feel uncomfortable or restricted in my movement, which made the hike even more enjoyable.
 
-2. **Do you like T-shirts with pictures or prints?**
+**Do you like T-shirts with pictures or prints?**
 
 **reason**:they allow me to express my personality and interests through my clothing.
 
 **examples**: I have a T-shirt with a picture of my favorite band on it that I love to wear to concerts which makes me feel connected to the band and their music
 
-3. **Do you think older people who wear T-shirts are fashionable?**
+**Do you think older people who wear T-shirts are fashionable?**
 
 **reason**:people of any age can wear clothing that makes them feel good about themselves and express their individuality.
 
 **examples**: my grandmother often wears T-shirts with bold colors and patterns that reflect her joyful and spirited personality. 
+
+**How often do you wear a T-shirt?**
+
+**reason:** I find them to be very comfortable and versatile, so they’re a great choice for many different occasions.
+
+**example:**For instance, I might wear a T-shirt when I’m going for a walk in the park, meeting friends for lunch, or just lounging around at home.
+
+**Would you buy T-shirts as souvenirs on vacation?**
+
+**reason:**I think T-shirts are a great way to remember a trip and they’re also practical because I can wear them after I get back home.
+
+**example:** For example, when I went to Hawaii last year, I bought a T-shirt with a beautiful design of the islands and every time I wear it, it reminds me of the amazing time I had there.
 
 ### 1.2.2 Chocolate
 
@@ -233,6 +245,14 @@ dark chocolate
 
 **example:** He had an incredible talent for making difficult scientific concepts easy to understand, and he always made class fun and engaging.Additionally, he went above and beyond to offer extra help and support to students who were struggling with the material
 
+**What were your primary school teachers like?**
+
+ kind and supportive.
+
+**reason:**They always encouraged me to do my best and helped me when I was struggling with a subject.
+
+**example:** I remember one teacher in particular who would stay after school to help me with my math homework. She was very patient and explained things in a way that made it easy for me to understand.
+
 ### 1.2.6 Wild animals
 
 **Are there wild animals in your country?**
@@ -251,6 +271,14 @@ dark chocolate
 **reason:**many TV programs in China that showcase the country's rich wildlife and natural beauty
 
 **example:**For example, "Wild China" is a popular documentary series that explores the diverse habitats and animal species in China. raise awareness about the importance of protecting our planet's biodiversity.
+
+**What is the animal you would like to see in the wild?**
+
+The animal I would most like to see in the wild is a lion.
+
+**reason:** Lions are such **majestic** creatures and seeing them in their natural habitat would be an incredible experience.
+
+**example:**I’ve always been fascinated by nature documentaries that show lions hunting and taking care of their pride. It would be amazing to witness that in person.
 
 ### 1.2.7 friends
 
@@ -282,6 +310,12 @@ different places depending on what we feel like doing at the time
 
 **examples**:
 
+**Do you have a friend you have known for a long time?**
+
+**reason:**We met when we were in primary school and we’ve stayed in touch ever since.
+
+**example:** Even though we live in different cities now, we still make an effort to see each other whenever we can. We have so many shared memories and experiences that our friendship has only grown stronger over time.
+
 ### 1.2.8 fixing
 
 **Can you fix things?**
@@ -309,6 +343,20 @@ donate and recycle things that are still usefull
 **reason:**can benefits others and is environmentally friendly
 
 **example:**mental recycling centre
+
+**What things can you fix?**
+
+**reason:** it’s satisfying to be able to fix something that’s broken instead of having to throw it away.
+
+**example:**For instance, I’ve fixed leaky faucets, replaced light fixtures, and even repaired a broken chair. It’s a useful skill to have and it saves me money in the long run.
+
+**how to fix things**
+
+When I need to fix something, I usually start by doing some research.
+
+**reason:**I’ll look up information online or consult a manual to learn more about the problem and how to fix it. 
+
+**example**:For example, when I needed to fix a leaky faucet, I watched some videos online that showed me how to take apart the faucet and replace the worn-out parts. Then I went to the hardware store to buy the necessary parts and followed the instructions to fix the faucet.
 
 ### 1.2.9 study or work
 
@@ -574,6 +622,12 @@ same as chocolate
 
 **example:**, I can make a basic vanilla ice cream by mixing cream, sugar, and vanilla extract together and then freezing it in an ice cream maker. It’s actually quite easy and the result is delicious.
 
+**Do you eat ice cream a lot?**
+
+**reason:**While I love the taste of ice cream, I try to limit my intake of sugary treats for health reasons.
+
+**example:** So instead of having ice cream every day, I might treat myself to a scoop or two once a week or on special occasions.
+
 ### 1.2.14 language
 
 **What languages do you speak?**
@@ -606,6 +660,14 @@ same as chocolate
 
 **example:** For instance, a business professional might learn Mandarin to sharpen their competitive adge and Separate himself from others, while a student might learn Spanish to expand his repertoire of abilities and skills.
 
+**How do you learn a foreign language?**
+
+When I want to learn a foreign language, I usually start by taking a course or using a language learning app.
+
+**reason:**This gives me a structured way to learn the basics of the language and practice my skills. 
+
+**example:** For instance, when I was learning Spanish, I took a course at a local community college and also used a language learning app on my phone. In addition, I listened to Spanish music and watched Spanish-language TV shows to improve my listening comprehension. 
+
 ### 1.2.15 day off
 
 **Do you usually spend your day off with parents or friends?**
@@ -628,7 +690,7 @@ The last time I had a few days off was about a month ago. I took some time off w
 
 **reason:**
 
-**example:**We went to a nearby beach town and spent a few days relaxing by the ocean, trying out local restaurants, and exploring the area.  It was a great way to spend some quality time together and take a break from our usual routine.
+**example:**We went to a nearby beach town and spent a few days relaxing by the ocean, trying out local restaurants, and exploring the area.  It was a great way to spend some quality time together and **take a break from our usual routine.**
 
 **What would you like to do if you had a day off tomorrow?**
 
@@ -680,9 +742,9 @@ The last time I had a few days off was about a month ago. I took some time off w
 
 **Would you like to live in a dry or wet place?**
 
-**reason:**This is because I enjoy the lush greenery and natural beauty that comes with living in a place with plenty of rainfall.
+**reason:** I love the sound of rain and the way everything looks so green and lush after a good rainfall. Plus, a wetter climate would be good for growing plants and flowers, which is something I enjoy.
 
-**example:** For example, I love going for walks in the rain and seeing all the plants and trees come alive. The sound of raindrops on the roof is also very soothing to me. Plus, living in a wet place means there’s always plenty of water for activities like swimming and boating.
+**example:**  For example, I could have a beautiful garden full of colorful flowers and vegetables. And on rainy days, I could curl up with a good book and listen to the sound of the rain outside.
 
 **Have you cancel any plans because of rain?**
 
@@ -743,6 +805,8 @@ doing a mix of relaxing and fun activities.
 **example:**For example, on Mondays I usually have to wake up early and get back into the routine of work after the weekend. There are often a lot of emails to catch up on and meetings to attend, which can make the day feel hectic and overwhelming. Additionally, the transition from the relaxed pace of the weekend to the fast pace of the workweek can be challenging. 
 
 **Is there anything you do every day?**
+
+there are a few activities that I engage in on a daily basis..
 
 **reason:**This is because having a routine and engaging in certain daily habits helps me to stay organized and maintain my physical and mental well-being.
 
@@ -1221,7 +1285,7 @@ Choice Questions:  **What’s more important: to keep old friendships or make ne
 
 ## 2.3 examples
 
-### 2.3.1 inventions
+### 2.3.1 Describe an invention
 
 Describe an invention
 You should say:
@@ -1229,25 +1293,25 @@ What the invention is
 How you use this invention
 Whether it is difficult to use it
 
- Honestly speaking, when it comes to an invention that I use on a regular basiss, I must admit, it's none other than.
+ Honestly speaking, when it comes to an invention that I use on a regular basiss, I must admit, **it's none other than.**
 
- i choose this invention because  incredibly convenient and quick, in addition to that it has completely transformed the way we conduct financial transactions.
+ i choose this invention **because** ... incredibly convenient and quick, in addition to that it has completely transformed the way we conduct financial transactions.
 
- to begin/start with, you need to have a smartphone and a mobile payment app such as Google Pay, Samsung Pay, or Apple Pay installed on your device. You can then link your bank account or credit/debit card to your mobile payment app.
+ **to begin/start with**, you need to have a smartphone and a mobile payment app such as Google Pay, Samsung Pay, or Apple Pay installed on your device. You can then link your bank account or credit/debit card to your mobile payment app.
 
- It also should be noted that when making a purchase in person at a retail store, you simply need to open the mobile payment app, select the card you want to use, and tap your phone on the contactless payment terminal. The payment is almost instant, and you do not need to swipe your card or enter a PIN. Making a mobile payment for an online purchase is similar. You select the mobile payment option during checkout, confirm the transaction on your phone, and the transaction is complete.
+ **It also should be noted tha**t when making a purchase in person at a retail store, you simply need to open the mobile payment app, select the card you want to use, and tap your phone on the contactless payment terminal. The payment is almost instant, and you do not need to swipe your card or enter a PIN. Making a mobile payment for an online purchase is similar. You select the mobile payment option during checkout, confirm the transaction on your phone, and the transaction is complete.
 
-Overall, I think mobile payment is relatively easy to use, especially as mobile payment apps become more intuitive and widely adopted. It is also a more secure payment method compared to traditional payment methods as your sensitive information is securely stored within your mobile payment app.
+Overall, I think mobile payment is relatively easy to use, especially as mobile payment apps become more intuitive and widely adopted.
 
-in the future,In the long run, I believe that mobile payments will become the primary way that people conduct their transactions. From this moment on, I plan to continue using mobile payments whenever I can, and I would encourage others to do the same.
+in the future,, I plan to continue using mobile payments whenever I can, and I would encourage others to do the same.
 
 1. **Are there inventions that have changed the world? How?**
 
 To tell you the truth, there have been many inventions that have had a profound impact on the world. I will give a few reasons to explain how they changed the world.
 
-First and foremost,  Many inventions have greatly improved the quality of life for people all over the world.For example, the invention of medical technologies such as X-rays, antibiotics, or pacemakers have saved countless lives and improved the health of millions. In addition, other inventions such as electricity, running water, or the telephone have made people’s lives more comfortable and convenient.
+**First and foremost,**  Many inventions have greatly **improved the quality of life** for people all over the world.For example, the invention of medical technologies such as X-rays, antibiotics, or pacemakers have saved countless lives and improved the health of millions. In addition, other inventions such as electricity, running water, or the telephone have made people’s lives more comfortable and convenient.
 
- Another thing that comes to mind, Inventions have also been a driving force behind economic growth and progress. For instance, the printing press, industrial machinery, and the internet have all brought about significant changes in industries such as publishing, manufacturing, and communication. These changes have allowed countries to become more productive, create new jobs, and generate wealth.
+ **Another thing that comes to mind,** Inventions have also been a **driving force behind economic growth and progress**. For instance, the printing press, industrial machinery, and the internet have all brought about **significant changes** in industries such as publishing, manufacturing, and communication. These changes have allowed countries to **become more productive, create new jobs, and generate wealth.**
 
 **What are the qualities of a scientist?**
 
@@ -1289,7 +1353,7 @@ Plastics have brought a wealth of benefits to society, but their production and 
 
 Another thing that comes to mindis that Home appliances such as washing machines, refrigerators and air conditioners can be improved to be more energy efficient and sustainable. For instance, more efficient  air conditioner  systems can help reduce greenhouse gas emissions and other harmful substances generated by energy usage. 
 
-### 2.3.2 shop
+### 2.3.2 **Describe a new shop that recently opened in your city/town.**
 
 **Describe a new shop that recently opened in your city/town.**
 
@@ -1341,7 +1405,7 @@ with e-commerce and online shopping, location is becoming less important. Custom
 
 
 
-### 2.3.3 childhood experience
+### 2.3.3 Describe a happy experience in your childhood
 
 Describe a happy experience in your childhood
 You should say:
@@ -1420,7 +1484,7 @@ it also should be noted that
 
 **two**Another thing that stands out from that memory is going on a boat ride with my family. We saw fish jumping out of the water and It was a very peaceful and happy moment for me.
 
-### 2.3.4 Clothing
+### 2.3.4 **Describe a piece of clothing you enjoy wearing**
 
 **Describe a piece of clothing you enjoy wearing**
 
@@ -1496,10 +1560,7 @@ Does the climate affect what people wear?
 
 **two**
 
-### 2.3.4 expensive gift
-
-Part2
-**Describe an expensive gift that you would like to give someone when you save a lot of money**
+### 2.3.4 Describe an expensive gift that you would like to give someone when you save a lot of money
 
 You should say:
 
@@ -1644,6 +1705,78 @@ Part 3
 
 **two:**
 
+## 2.4 人物类
+
+### 2.4.1 Describe a famous person you are interested in
+
+you shoud say:
+who he/she is
+when you first knew about him/her
+why he/she was like before he/she became famous
+And explain why you are interested in him/her
+
+**response:**
+
+**reason:**
+
+**one:**
+
+**two:**
+
+**three:**
+
+**future:**
+
+**Part 3**
+
+**Do you think media is putting too much attention on famous people?**
+
+**response:**
+
+**one:**
+
+**two:**
+
+**Do you think famous people are necessarily good in their field?**
+
+**response:**
+
+**one:**
+
+**two:**
+
+**What are the differences between famous people today and those in the past?**
+
+**response:**
+
+**one:**
+
+**two:**
+
+**What kinds of famous people are there in your country?**
+
+**response:**
+
+**one:**
+
+**two:**
+
+**Why are some kids popular at school?**
+
+**response:**
+
+**one:**
+
+**two:**
+
+**Why do some people become famous but not successful?**
+
+**response:**
+
+**one:**
+
+**two:**
+
 # 3 important Collocations
 
 ## 3.1 上进相关
@@ -1677,3 +1810,45 @@ convenience and flexibility
 time and vigor
 
 domino effect and it's snowballs and it's bound to have great ramifactions
+
+## 3.5 enjoy
+
+To have a whale of a time..
+To have a blast..
+Live large..
+Have the time of my life..
+Paint the town red..
+
+## 3.6 赞美
+
+ versatile
+
+majestic
+
+fascinating
+
+## 3.7 贬义
+
+cumbersome
+
+## 3.8 sense
+
+a sense of accomplishment and self-reliance.
+
+## 3.9 着迷
+
+fascinated by
+
+## 3.10 feeling
+
+refreshed
+
+## 3.11 好处
+
+ maintaining my mental and emotional well-being
+
+make me unwind and recharge my batteries.
+
+## 3.12 good words
+
+ precipitation
