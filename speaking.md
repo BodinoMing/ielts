@@ -1712,20 +1712,20 @@ Part 3
 you shoud say:
 who he/she is
 when you first knew about him/her
-why he/she was like before he/she became famous
+what he/she was like before he/she became famous
 And explain why you are interested in him/her
 
-**response:**
+**response:**Elon Musk
 
-**reason:**
+**reason:**He’s a tech billionaire and innovator who’s known for his ventures in the space and automobile industries.
 
-**one:**
+**one:**I first heard about Elon Musk when I was in high school and came across an article about his SpaceX program. The idea of being able to travel to Mars and make humanity a multi-planetary species fascinated me, and I started to research more about his other ventures.
 
-**two:**
+**two:**Before becoming famous, Elon Musk was an ambitious and intelligent entrepreneur who had a vision to tackle some of the world’s most prominent issues through his ventures. He started his entrepreneurial journey with internet startups in the late 90s and 2000s, which eventually led to his founding of Paypal. In the mid-2000s, he turned his attention to space exploration and electric cars, starting companies like SpaceX, Tesla, and the Boring Company.
 
-**three:**
+**three:** his audacious vision of the future and the sheer impact that he’s had on the world through his ventures. He’s been a driving force in changing the way people perceive renewable energy, space travel, and autonomous vehicles. 
 
-**future:**
+**future:**Follow her news, learn about his latest trends, and introduce his contributions to more people
 
 **Part 3**
 
@@ -1776,6 +1776,70 @@ And explain why you are interested in him/her
 **one:**
 
 **two:**
+
+## 2.5 事件类
+
+### 2.5.1 Describe an important decision that you made
+
+You should say:
+What the decision was
+How you made your decision
+What the results of the decision were
+And explain why it was important
+
+**response:**move to a new city to start my first job after graduating from college
+
+**reason:**I chose this topic because it holds great significance in shaping my professional journey and personal growth.
+
+**one:**I made the decision after researching different job opportunities in various cities, and weighing factors such as the cost of living, the cultural scene, and the job market. I was exposed to diverse cultures, ideas, and perspectives  In the end, I accepted a job offer in a city that was more expensive than where I grew up but explore better career opportunities 
+
+gain valuable experience in my field of interest
+
+**two:**The results of my decision have been positive so far. I’ve gained invaluable experience in my job and have made new friends from a diversity of backgrounds. Adjusting to a new lifestyle is never easy, but I’ve become more adaptable and resilient as a result.Additionally, I can see several future benefits of this decision, including higher earning potential and career advancement opportunities.
+
+**three:**Overall, this decision was important because it allowed me to grow both personally and professionally. I challenged myself to take risks and pursue a new opportunity, and I’m glad that I did.
+
+**future:**Looking towards the future, I aspire to continue growing professionally and expanding my skill set. I plan to seize every opportunity that comes my way, constantly striving for excellence in my chosen field. 
+
+Part 3 
+
+Do you think children sometimes have to make important decisions? 
+
+What important decisions do teenagers need to make after graduation? 
+
+Who can children turn to for help when making adecision? 
+
+When making important decisions, should we discuss with family or friends? 
+
+What factors influence people buying products?  
+
+Do you think advertisements can influence our decisions when shopping? 
+
+Do you think the influence of advertising is good? 
+
+How do people usually make an important decision?
+
+### 2.5.2 **Describe an occasion when you lost your way**
+
+You should say:
+
+Where you were
+
+What happened
+
+How you felt
+And explain how you found your way
+
+
+
+Part 3
+
+How can people find their way when they are lost?
+Do you think it is important to do some preparation before you travel to new places?
+Do you think it is important to be able to read a map?
+Is a paper map still necessary?
+Why do some people get lost more easily than others?
+How do people react when they get lost?
 
 # 3 important Collocations
 
