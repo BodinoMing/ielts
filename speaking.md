@@ -1733,49 +1733,206 @@ And explain why you are interested in him/her
 
 **response:**
 
-**one:**
+**one:**Firstly, the constant coverage of celebrity lives can have a negative impact on society. When the media constantly focuses on the lives of the rich and famous, it can create unrealistic expectations for the rest of us.
 
-**two:**
+**two:**Secondly, the excessive attention paid to famous people can lead to a lack of privacy and even harassment. This can be particularly traumatic for individuals who are going through difficult times, such as a divorce or a family tragedy. The constant scrutiny can also have a negative impact on mental health, leading to anxiety, depression, and even suicidal thoughts.
 
 **Do you think famous people are necessarily good in their field?**
 
 **response:**
 
-**one:**
+**one:**While it is true that many famous people are skilled in their field, there are numerous examples of individuals who are famous for reasons other than their abilities. For example, in the entertainment industry, some actors and musicians are known more for their looks or personal lives than for their actual talent. Similarly, some business leaders and entrepreneurs have become famous primarily due to their wealth, rather than their business acumen.
 
-**two:**
+**two:**On the other hand, there are many talented individuals who are not well-known outside of their field. These individuals may not have the flashy personalities or media savvy of their more famous counterparts, but they are nonetheless highly skilled and successful in what they do.
 
 **What are the differences between famous people today and those in the past?**
 
 **response:**
 
-**one:**
+**one:** In the past, famous people were typically individuals who achieved great things in their field, whether it be in the arts, sciences, or politics. These achievements would then be recognized by society at large, leading to the person becoming famous. In contrast, today’s celebrities often become famous through their personal lives, such as through reality TV shows or social media platforms.
 
-**two:**
+**two:** the nature of the fame itself. In the past, famous people were often admired for their achievements or contributions to society. Today, however, many celebrities are known more for their looks, fashion choices, or personal dramas than for their accomplishments
+
+Overall, while there are certainly similarities between famous people today and those in the past, there are also significant differences in the ways in which celebrity is created and sustained, the nature of fame itself,
 
 **What kinds of famous people are there in your country?**
 
-**response:**
+**response:**, there are several different types of famous people. I would then provide two specific examples
 
-**one:**
+**one:**Firstly, in my country, there are many famous actors and actresses. These individuals have achieved fame and recognition through their work in popular films and television shows. One reason for their popularity is the fact that films and TV shows are a major form of entertainment in my country.
 
-**two:**
+**two:**Secondly, another type of famous person in my country are professional athletes. From football players to badminton players, these individuals are often seen as national heroes and are celebrated for their sporting achievements. Many of them have dedicated their lives to their sport. For many people in my country, watching and supporting these athletes is a major source of national pride.
 
 **Why are some kids popular at school?**
 
 **response:**
 
-**one:**
+**one:**Firstly, some kids may be popular at school because they possess good social skills. They may be outgoing, friendly and confident, making them easier to approach and interact with. They may also be good at making friends, and have an understanding of social norms and expectations. These attributes can make other kids feel more comfortable and at ease around them, making the popular kids more likely to be included in social activities.
 
-**two:**
+**two:**Secondly, some kids may be popular at school due to their interests or talents. For example, a student who excels at sports, music, or acting may be popular because of their talent. Similarly, students who have interests that are shared by others, such as a passion for video games or fashion, may be popular because they are able to connect with other students who share these interests. 
 
 **Why do some people become famous but not successful?**
 
 **response:**
 
-**one:**
+**one:**Firstly, some people may become famous purely due to luck or happenstance. For example, they may have been in the right place at the right time, or had a video go viral on social media. While they may have achieved a degree of fame, they may not have any underlying talent or skills that would lead to sustained success. 
 
-**two:**
+**two:**Secondly, some people may become famous due to negative attention, such as through scandalous behavior or controversial statements. While this may generate a lot of attention and publicity in the short term, it can also damage their reputation and limit their opportunities for long-term success. 
+
+### 2.4.2 Describe a popular person 受欢迎的人
+
+you should say:
+who this person is
+what he or she is like
+why you think this person is popuplar
+how this person influences the public
+
+**response:**
+
+**one:**I would like to talk about Elon Musk. Elon Musk is a famous entrepreneur, inventor, and engineer from South Africa. He is the founder and CEO of several well-known companies, including SpaceX, Tesla, Neuralink, and The Boring Company.
+
+Elon Musk is known for his innovative and futuristic ideas. He is a highly intelligent and driven person who is always pushing the boundaries of what is possible. He is always looking for ways to make the world a better place through his inventions and ideas.
+
+**two:**There are several reasons why Elon Musk is such a popular person. Firstly, he is seen as a role model by many people around the world. His life story, from his humble beginnings in South Africa to becoming one of the most successful businessmen in the world, is an inspiration to many. Secondly, his products and companies are incredibly popular and have had a significant impact on the world. Tesla is revolutionizing the automotive industry,
+
+**three:**Elon Musk’s influence on the public is enormous. He has brought attention to several important issues, such as climate change and the need for sustainable energy solutions. He has also sparked a renewed interest in space exploration and has inspired a whole new generation of young people to pursue careers in science, technology, engineering, and math.
+
+**future:**Overall, Elon Musk is a fascinating and popular person who has made significant contributions to the world in many different ways.
+
+Part 3
+**What kinds of people are more popular at school?**
+
+**response:**
+
+**one:**social skills. They may be outgoing, friendly and confident, making them easier to approach and interact with. They may also be good at making friends, and have an understanding of social norms and expectations. These attributes can make other kids feel more comfortable and at ease around them, making the popular kids more likely to be included in social activities.
+
+**two:**some kids may be popular at school due to their interests or talents. For example, a student who excels at sports, music, or acting may be popular because of their talent. Similarly, students who have interests that are shared by others, such as a passion for video games or fashion, may be popular because they are able to connect with other students who share these interests. 
+
+**Why are some people less famous?**
+
+**response:**
+
+**one:** the entertainment and media industries heavily rely on marketing and publicity to promote individuals and their work. People who have connections in the industry or can afford to hire professional publicists may have an advantage in terms of exposure and publicity. However, this does not necessarily mean that they possess more talent or skill than others who are less famous.
+
+**two:** some people may consciously choose to avoid the spotlight and fame, instead preferring to lead a more private life. They may prioritize creating and producing their work over promoting it or engaging in public appearances. These individuals may be no less talented than those who are more famous, but simply do not have the desire to chase after the limelight.
+
+**Why some celebrities are famous for a much longer time than others?**
+
+**response:**
+
+**one:**They may take on new projects or embrace new trends and technologies to stay connected with their audience. Additionally, these celebrities may have a strong sense of public relations and be able to effectively promote their work and maintain a positive public image. 
+
+**two:**Secondly, some celebrities may have developed a devoted fan base over the years that remains loyal no matter what projects they take on or controversies they might face. These fans are invested in the celebrity’s work and life, and will continue to follow their career even as they age or change.For example, Tom Hanks has a large and devoted fan base that has followed him from his early career to his current status as a Hollywood legend.
+
+**Do popular people usually live a happy life?**
+
+**response:**In conclusion, whether or not popular people live happy lives is not a simple question to answer. 
+
+**one:**Firstly, popular people often have to live with a lot of pressure and scrutiny, which can lead to stress and mental health issues. Maintaining a public image and dealing with the constant attention of the media and fans can be physically and emotionally exhausting.
+
+**two:** the lifestyle of popular people can be both luxurious and demanding. They may have access to great wealth and opportunity, but also face constant demands on their time and energy. This can make it difficult to maintain relationships, pursue personal interests, or simply relax and enjoy life.
+
+### 2.4.3 Describe someone you know who often helps others 帮助别人的人
+
+You should say:
+What he/she is like
+How he/she helps others
+Why his/her help is beneficial
+And explain why he/she helps others
+
+**response** She is a kind, compassionate, and selfless individual who is always willing to lend a helping hand to those in need.
+
+**one** is the type of person who goes out of her way to assist others. She does it without expecting anything in return, and she is always humble and gracious about it. She is an excellent listener and communicator, which allows her to understand people’s problems and offer practical and emotional support.
+
+**two**. One of the ways that she helps is by offering her time and skills to those who need them. For example, she occasionally volunteers at the local hospital to comfort the sick and lonely patients. She also helps to organize charity events that raise funds for the underprivileged and sponsors children in developing countries.
+
+**three**Mrs. Smith’s help is beneficial because it improves the lives of those she helps. Her kindness and generosity have a ripple effect, making a positive impact not only on the recipients of her help but also on the wider community. Moreover, her help inspires others to help, creating a culture of kindness and giving.
+
+**future**In conclusion, Mrs. Smith is a remarkable woman who always tries to make a positive difference in the lives of others.
+
+Part 3
+
+**How can children help their parents at home?**
+
+**response:**
+
+**one:**Firstly, children can help with basic chores around the house, such as dusting, sweeping, and vacuuming. Even young children can help with simple tasks like picking up toys or folding clothes, and older children can assist with more complex tasks like washing dishes, doing laundry, and cleaning bathrooms.
+
+**two:**Secondly, children can help with meal preparation and cooking. Parents can involve children in planning and cooking meals, which can be a fun and educational experience. This can help children learn valuable life skills, such as nutrition and cooking, as well as the importance of teamwork and communication.
+
+**Should children be taught to help others?**
+
+**response:**
+
+**one:**Firstly, helping others is an important aspect of building empathy and kindness in children. Through helping others, children learn to recognize the needs of others and develop a sense of compassion and social awareness. This enhances their ability to navigate complex relationships and become more thoughtful and responsible members of society.
+
+**two:**Secondly, helping others is critical for the development of a sense of community and social responsibility. When children engage in acts of service and helping, they become invested in the well-being of others in their community. This not only fosters a spirit of engagement and participation, but also helps to build stronger communities that are more supportive and collaborative.
+
+**What makes children help each other at school?**
+
+**response:**
+
+**one:**Firstly, children are more likely to help each other when they have a strong sense of belonging within the classroom. When students feel like they are part of a supportive and inclusive community, they are more likely to help each other out, share resources, and collaborate on projects. This can be achieved by creating a positive classroom culture, promoting teamwork, and encouraging positive interactions between students.
+
+**two:** children are more likely to help each other when they are encouraged to do so by their teacher or other authority figures. Teachers can model helpful behaviors through their own actions and promote such behavior by praising and acknowledging students who help others. This can reinforce the idea that helping others is valued and rewarded, leading to more instances of helpful behavior
+
+**Should students do community service? Why?**
+
+**response:**
+
+**one:**Firstly, community service is an opportunity for students to give back to their community. By volunteering their time and effort to projects and organizations that help others, students can make a positive impact on the lives of those around them. This can be a valuable life lesson and foster a sense of social responsibility.
+
+**two:**Secondly, community service allows students to develop important skills and knowledge outside of the classroom. Through these activities, students can gain experience in teamwork, communication, leadership, problem-solving, and other important skills that are useful in many different areas of life.
+
+**Do students in your country do volunteer work?**
+
+**response:**
+
+**one:**Many schools organize volunteer opportunities for their students, such as picking up litter or serving food at a local homeless shelter. These types of activities help build a sense of community and investment in the neighborhood, while also exposing students to different experiences.
+
+**two:**, many students also participate in volunteer work outside of school. This might involve joining a local charity or organization, participating in community events, or volunteering at a hospital or other institution.
+
+**Why do some people do volunteer work all overthe world?**
+
+**response:**
+
+**one:**Firstly, many people are motivated by a desire to help others and make a positive impact. They want to contribute to causes and organizations that align with their values and that they believe will help improve the lives of others. This sense of purpose and meaning can be a strong motivator for people to engage in volunteer work.
+
+**two:**Secondly, some individuals may be seeking a new and unique experience. By volunteering in new places and immersing themselves in different cultures, they can broaden their horizons and gain a deeper understanding of the world around them. This can be particularly appealing to people who are interested in travel and exploration.
+
+### 2.4.4 Describe someone who has recently moved into his/her new home/accommodation
+
+You should say:
+Who this person is
+Why this person moved into his/her new home
+What kind of home/accommodation this person moved to
+And explain whether you think this move was a positive change for this person.
+
+The person I’d like to talk about is my friend Jane. Jane recently moved into her new apartment in the city. She had been living with roommates for several years, but she wanted more privacy and independence, which is why she decided to move into her own place.
+
+Jane’s new apartment is a city center, located on the 10th floor of a high-rise building. It has a spacious living room, a modern kitchen, a bedroom, and a bathroom. There is also a small balcony with a beautiful view of the city skyline. It’s a perfect size for her, and she has furnished it nicely, with a comfortable sofa and a cozy bed, which makes it feel like a real home.
+
+I think this move was a positive change for Jane. She’s thrilled to have her own space, and she can finally decorate it and design it to suit her taste. She no longer has to deal with the mess and noise of living with roommates, which has helped to reduce her stress levels. She now has a quiet and peaceful place to call her own, where she can relax and unwind after a busy day at work.
+
+Overall, I am happy that Jane decided to move into her own apartment. It’s a positive change for her, and I think it will help her to grow and thrive as an individual.
+
+ls it positive for young people to live by themselves?
+
+response:
+
+one:
+
+two:
+
+Besides cooking, are there any other skills that people need to learn if they live on their own?
+
+What kinds of people tend to live by themselves?
+
+Why do some young people keep moving?
+
+What's the difference between living alone and living with roommates?
+
+How can parents and teachers help young people to live independently?
 
 ## 2.5 事件类
 
@@ -1803,21 +1960,69 @@ gain valuable experience in my field of interest
 
 Part 3 
 
-Do you think children sometimes have to make important decisions? 
+**Do you think children sometimes have to make important decisions?** 
 
-What important decisions do teenagers need to make after graduation? 
+**response:**
 
-Who can children turn to for help when making adecision? 
+**one:**One such situation is regarding the child’s education. Although parents are usually in charge of making decisions about their child’s education, the child may need to have a say in certain aspects, such as which subjects they wish to study or whether they want to attend a certain school. In these cases, giving the child some power in the decision-making process can help them take ownership of their education and also make them feel more engaged and invested in their learning.
 
-When making important decisions, should we discuss with family or friends? 
+**two:** While parents are ultimately responsible for their children’s healthcare decisions, children should also be given a chance to express their wishes and concerns. For example, a child may be old enough to articulate whether they want to undergo surgery or undergo a certain type of treatment. In such cases, it is important for parents to listen to their child’s concerns and take their opinions into account, while also making sure that they receive appropriate medical care.
 
-What factors influence people buying products?  
+**What important decisions do teenagers need to make after graduation?** 
 
-Do you think advertisements can influence our decisions when shopping? 
+**response:**
 
-Do you think the influence of advertising is good? 
+**one:**One of the most important decisions that teenagers need to make after graduation is what career they want to pursue. After years of education, it is important for teenagers to consider their interests, strengths, and career aspirations. They may need to research different job prospects, assess their skill set, and make decisions about which career paths align with their goals and values.
 
-How do people usually make an important decision?
+**two:**Another important decision that teenagers need to make after graduation is whether or not to pursue further education. This may involve deciding whether to pursue a bachelor’s or master’s degree, or whether to specialize in a certain field through a diploma or certificate course. Such a decision requires careful research and planning, as well as a realistic assessment of financial constraints and career expectations. 
+
+**Who can children turn to for help when making adecision?** 
+
+**response:**
+
+**one:**Parents and family members are often children’s first and most significant source of guidance when it comes to making decisions. Children often look to their parents for advice on everything from choosing a new hobby to selecting a college or career. Parents can offer a wealth of experience, insight, and support that can help children make informed choices. 
+
+**two:**Teachers and school counselors also play an important role in helping children make decisions. As professionals in their field, teachers can provide children with a wealth of knowledge about academic and career opportunities, as well as offer guidance on how to navigate social and emotional challenges. School counselors, on the other hand, have specialized training in assisting children with personal and academic issues, providing guidance on everything from career choices to mental health concerns. 
+
+**When making important decisions, should we discuss with family or friends?** 
+
+**response:** it can be very helpful to discuss important decisions with family and friends, as they can offer valuable advice and support.
+
+**one:**Firstly, when it comes to decisions that are deeply personal or directly related to our relationships or personal values, it may be advisable to limit the number of people we involve in the decision-making process. For example, if we are considering ending a long-term relationship, it may not be appropriate to discuss this decision with several close friends or family members. Instead, it may be best to seek guidance from a trusted therapist or counselor who has expertise in navigating complex personal decisions.
+
+**two:**On the other hand, for decisions that are more objective or require specific knowledge and expertise, it can be very helpful to seek the advice of friends and family members who have relevant experience or knowledge. For example, if we are considering buying a new home or starting a new business, it can be highly beneficial to discuss our ideas with family or friends who have relevant experience or knowledge in the area. They can offer valuable insights, advice, and information that can help us make a more informed decision.
+
+**What factors influence people buying products?**  
+
+**response:**
+
+**one:**One of the most important factors that influences people when buying products is the price. People often have a limited budget and they want to make sure they get the best value for their money. If the product is too expensive, they may look for alternatives or delay their purchase.
+
+**two:**The features of a product also play an important role in influencing people’s buying decisions. People want products that meet their needs and preferences. For instance, if someone is looking for a phone, they may consider the camera quality, battery life, and other features that match their usage and lifestyle. Therefore, the more features a product has that meet people’s needs, the more likely they are to buy it.
+
+**Do you think advertisements can influence our decisions when shopping?** 
+
+**response:**
+
+**one:**Advertisements often use emotional appeal to connect with their target audience in a meaningful way. For example, an advertisement for a luxury car may showcase the sense of freedom and status that comes with driving that car. By evoking such emotions, the advertisement creates a desire for the product or brand that may influence the consumer’s decision when shopping.
+
+**two:** Advertisements can also influence our purchasing decisions by creating brand recall, which is the ability to remember a brand or product when shopping. For instance, if someone sees an advertisement for a particular brand of soft drink, they are more likely to choose that brand over others when they see it in the store. This is because the advertisement has created a familiarity and association that may influence the consumer’s decision when shopping.
+
+**Do you think the influence of advertising is good?** 
+
+**response:**
+
+**one:**Advertising can bring attention to important issues and products that may improve our quality of life. For instance, advertisements for public health campaigns or eco-friendly products can raise awareness of important issues and encourage people to make positive changes in their lives. In this way, advertising can have a positive influence on society.
+
+**two:** However, advertising can also have a negative influence by promoting unrealistic or harmful ideals. For example, advertisements depicting overly thin models or subtly suggesting that smoking is cool can have negative impacts on people’s self-esteem, health, and habits. In these cases, the influence of advertising can be harmful or misleading.
+
+**How do people usually make an important decision?**
+
+**response:**
+
+**one:**When faced with an important decision, people often start by gathering relevant information to make an informed choice. This can include researching different options, reading reviews or opinions from others, and weighing the pros and cons of each option. By gathering information, people create a foundation of knowledge that they can use to make a rational and informed decision
+
+**two:**People also tend to consider their values and personal beliefs when making important decisions. For instance, someone who values independence and flexibility may choose a job that allows for remote work or flexible hours. By aligning their decision with their values, people can often feel more fulfilled and satisfied with their choice.
 
 ### 2.5.2 **Describe an occasion when you lost your way**
 
@@ -1840,6 +2045,293 @@ Do you think it is important to be able to read a map?
 Is a paper map still necessary?
 Why do some people get lost more easily than others?
 How do people react when they get lost?
+
+### 2.5.3 **Describe a water sport you would like to try in the future**
+
+You should say:
+
+What it is
+
+Where you would like to try it
+
+Whether itis difficult
+
+And explain why you would like to try it
+
+**response:**surfing.  I have seen people performing this sport in various movies and documentaries and it has always intrigued me.
+
+**one:**I would like to try surfing at a beach with high waves, preferably on the coast of Hawaii, as it is known for its amazing weather and waves for surfing. Of course, I would need to learn the basics before I can try it at the beach with high waves.
+
+**two:**I have heard that surfing can be a difficult sport to learn as riding on the wave requires a lot of balance and skill. Additionally, it also requires knowledge of the weather conditions, wind direction, and the right timing.
+
+**three:**Despite it being a bit challenging, I am still eager to try surfing because I find it to be an exhilarating and thrilling experience. I am an adventure lover and surfing would definitely be an adventure for me. The thought of riding on the waves, feeling the rush of wind, and being surrounded by the beauty of nature excites me a lot. 
+
+**future:**Overall, I am really looking forward to trying surfing as it seems like an amazing way to have fun, stay fit and enjoy nature at the same time.
+
+Part 3
+
+**What are the advantages of water transport compared to other modes of transport?**
+
+**response:**
+
+**one:**Firstly, one advantage of water transport is its ability to transport large quantities of goods at once. Shipping companies can use large cargo vessels to transport large quantities of goods across vast distances without the need for multiple trips, driving up efficiency and driving down costs. Water transport is particularly ideal for bulk goods like raw materials, as these are often heavy and bulky, making it challenging and costly to transport them via other modes of transport.
+
+**two:**Secondly, another advantage of water transport is that it is more environmentally friendly than many other modes of transport. Ships are well-suited to transporting goods over long distances and across oceans, and they are much more fuel-efficient than airplanes. Additionally, due to the fact that ships travel on water, there is less impact on the environment compared to modes of transport that require infrastructure, such as roads or rail lines.
+
+**Why do people like to live near water?**
+
+**response:**
+
+**one:**Firstly, living near water can open up a range of recreational activities, such as swimming, boating, and fishing. These activities can be a great way for people to stay active, spend time with friends and family, and enjoy the natural surroundings. For example, individuals who love to sail or kayak may choose to live near a lake or river where they can easily launch their boats.
+
+**two:**Secondly, another reason why people may be drawn to living near water is the calming effect that it can have on the mind and spirit. The sound of water can be incredibly soothing and relaxing, lowering stress levels and promoting feelings of calmness and tranquility. Living near water can also provide beautiful views, and being surrounded by nature can be restorative for many individu
+
+**What kinds of water sports are popular nowadays?**
+
+**response:**
+
+**one:**Firstly, jet skiing involves riding on a motorized watercraft, similar to a motorcycle or snowmobile on water. It allows riders to explore the water at high speeds and perform thrilling maneuvers like jumps and high-speed turns. Jet skiing can be enjoyed either solo or with a passenger, making it an enjoyable activity for couples, friends, and families.
+
+**two:**Secondly, wakeboarding is a water sport that involves riding on a board-based on a combination of water skiing, snowboarding, and surfing. Wakeboarding involves being towed behind a boat while riding the wake or waves created by the movement of the boat. It requires balance, coordination, and strength and is considered a more challenging water sport than jet skiing.
+
+**Do you think it’s good to teach swimming in schools?**
+
+**response:**
+
+**one:**Firstly, swimming is an excellent form of exercise that offers significant physical benefits. It is a low-impact exercise that is easy on the joints, making it accessible to individuals of all ages and fitness levels. Regular swimming can help improve  health, build muscle strength and endurance, and reduce the risk of chronic diseases.
+
+**two:**Secondly, learning how to swim can also be a matter of safety. Many countries have a significant number of natural bodies of water, and knowing how to swim can be crucial for personal safety. By teaching swimming in schools, we can equip students with important life-saving skills that can help prevent drowning accidents.
+
+**What do you think of people who waste water?**
+
+**response:**
+
+**one:**Firstly, water is a limited natural resource, and it is becoming increasingly scarce in many parts of the world. Therefore, it is essential to use water responsibly and avoid wasting it wherever possible. People who waste water are contributing to the problem of water scarcity and negatively impacting the environment and society as a whole.
+
+**two:**water waste can lead to higher water bills for households and businesses, particularly in areas where water is in short supply. Wasting water can also lead to infrastructure problems, such as leaky pipes and damaged water systems, which can be costly to repair. Ultimately, the cost of water waste is borne by everyone, including individuals, businesses, and the government.
+
+**What are the characteristics of goods transported by water?**
+
+**response:** Two of the main characteristics of goods transported by water are their size and weight and their durability.
+
+**one:**Firstly, goods transported by water tend to be relatively large and heavy, as water transport is suited to the transportation of bulky goods that are not suitable for shipment by air or road. Examples of goods transported by water include commodities like oil, iron ore, coal, and timber. Ships can carry a considerable amount of cargo, making water transport an efficient way to move large volumes of goods around the world.
+
+**two:**Secondly, goods transported by water need to be durable to withstand the conditions of the ocean. The long transit times and exposure to harsh weather conditions mean that goods transported by water need to be sturdy enough to withstand these challenges. Additionally, goods transported by water may be subject to changes in temperature and humidity, which can affect their quality. Therefore, goods transported by water need to be packaged and stored correctly to ensure that they arrive at their destination in good condition.
+
+### 2.5.4 **Describe a place you have been to where there were lots of people**
+
+You should say:
+
+Where it is
+Who you were with
+What people were doing there
+And explain why there were lots of people
+
+**response:**
+
+**one:** I visited the zoo with my family last year during our summer vacation. When we arrived, I was amazed by the sheer number of people who were already there.
+
+**two:**Most of the people at the zoo were there to see the pandas. The zoo is famous for its giant pandas, and people come from all over the world to see them. We were no exception, and we spent most of our time watching the pandas eat bamboo and play in their exhibits. There were also several other animal exhibits at the zoo, but the panda exhibits were by far the most popular.
+
+**three:**The reason why there were so many people at the zoo is that pandas are an endangered species, and the Panda Zoo in Chengdu is one of the best places to see them. The zoo is home to over 80 giant pandas, making it the largest panda breeding center in the world
+
+**future:**In conclusion, the Panda Zoo in Chengdu is a popular destination for people from all over the world who want to see giant pandas. 
+
+Part 3
+
+**Where do young people like to go?**
+
+**response:**
+
+**one:**Firstly, many young people enjoy the social opportunities that particular destinations offer. For example, music festivals and concerts are hugely popular among young people, as they provide opportunities to connect with others who share similar music tastes, make new friends, and have fun. Additionally, shopping malls and retail districts are popular destinations for young people who enjoy shopping and socializing with friends while browsing for the latest trends.
+
+**two:**Secondly, many young people are drawn to destinations that provide engaging experiences, whether that involves engaging with nature or exploring new cultures. For instance, outdoor recreational areas, such as hiking trails, beaches, and sports facilities, provide an opportunity for young people to engage in activities.Similarly, art museums, cultural centers, and historical landmarks offer young people the chance to learn about history, art, and different cultures, which can be enriching both educationally and socially.
+
+**Are people happy living in crowded apartments?**
+
+**response:**
+
+**one:**Firstly, the size and layout of the apartment can have a significant impact on a person’s happiness. Crowded apartments may feel confining and uncomfortable, especially if the space is poorly designed or lacking necessary amenities. In contrast, well-designed apartments with ample space and natural light may provide a more pleasant living experience, even in crowded urban areas.
+
+**two:**Secondly, an individual’s personality and lifestyle can play a role in their overall satisfaction with living in a crowded apartment. People who are more introverted may find that living in a crowded environment with many neighbors and limited privacy can be stressful. In contrast, people who enjoy interacting with others may find the socialization opportunities presented by a bustling apartment  be a positive aspect of their living environment.
+
+**Which scenic spots will have queues of people?**
+
+**response:**Certain scenic spots tend to attract large crowds of visitors
+
+**one:**Firstly, scenic spots that are iconic or have a culturally significant importance tend to draw large crowds. For example, the Eiffel Tower in Paris, France, is a famous landmark that attracts millions of visitors each year. As a result, there are often long queues of people waiting to ascend the tower, take photos, or simply view it from a distance. 
+
+**two:**Secondly, scenic spots with visually stunning landscapes or natural wonders can draw large crowds of visitors. For instance, the Grand Canyon in the United States is a stunning natural wonder that is known for its breathtaking views. As a result, there are often long queues of visitors waiting to explore the park and take in the scenery
+
+**What are the advantages of living on a higher floor?**
+
+**response:**
+
+**one:** living on a higher floor can offer beautiful views of the surrounding area. Being elevated above the ground can provide you with stunning views of the city skyline or natural scenery, which can be calming and uplifting for many people. Moreover, those who live on higher floors are less likely to be affected by street-level noise such as traffic and pedestrians, which can be a significant advantage for those who value peace and quiet.
+
+**two:**Secondly, living on a higher floor can provide better air circulation and improved natural lighting. Being elevated provides better access to sunlight and fresh air, which can improve your overall health and quality of life. Additionally, many higher floors receive more natural light than lower floors, which can be beneficial for those with limited exposure to sunlight.
+
+**What are the disadvantages of living on a lower floor?**
+
+**response:**
+
+**one:**Firstly, living on a lower floor can expose residents to more noise from the street and the building itself. Traffic, pedestrians, and other outside noise can disturb sleep and concentration, making it difficult for residents to relax or focus on work. 
+
+**two:**Secondly, residents who live on lower floors may have to deal with less natural light and poor air circulation. This is because lower floors tend to receive less direct sunlight, and there may be obstacles such as surrounding buildings or walls that can block light and fresh air from entering apartments. Additionally, lower floors may be more prone to moisture and dampness, which can create a less comfortable living environment and increase the risk of health problems
+
+**What do you think of the phenomenon of people queuing in restaurants for more than an hour?**
+
+**response:**
+
+**one:**On one hand, the long queues suggest that the restaurant is doing something right, and that their food and service are worth the wait. Customers may argue that the experience of eating at such a popular restaurant adds to the thrill and anticipation, helping to create a memorable dining experience. Moreover, long queues can also suggest that the restaurant is exclusive, adding to its appeal and reputation.
+
+**two:**On the other hand, queuing for such a long time can be tiresome, especially for those who are time-constrained. Furthermore, queuing for long periods may not be practical for older customers, families with young children, or people with disabilities. Additionally, some customers may argue that the food and service at the restaurant may not be worth the wait, and that the long queues are more a product of hype than quality.
+
+### 2.5.5 Describe an expensive gift that you would like to give someone when you save a lot of money
+
+You should say:
+
+What the gift is
+
+Who you will give the gift to
+
+How long it will take to save the money
+
+And explain why you would like to give the gift to this person.
+
+**response:**If I had a lot of money to save up, I would love to give my mother an expensive piece of jewelry as a gift. I have always wanted to repay her for all the hard work she has put in for me and our family.
+
+**reason:**
+
+**one**The gift would be a diamond necklace with matching earrings. My mother loves jewelry, and I know she would appreciate such a gift. It would be something she could wear on special occasions and serve as a reminder of how much she means to me.
+
+**two**Saving up for such an expensive gift would take me a few months, maybe around six months to a year. It would depend on my income and expenses. However, I would be willing to make sacrifices and cut back on spending to make it happen.
+
+**three**I would like to give this gift to my mother because she has always been there for me, supporting and encouraging me even when times were tough. She gave up so much of her own life to provide for our family, and I know that we could not have made it without her. I want to show her how much I appreciate all of her hard work, and I believe that an expensive gift like this would be a small way to do that.
+
+**four**
+
+Part 3
+
+**What do young people like to save money for?**
+
+**response:**Young people like to save money for a variety of reasons.
+
+**one**One common reason for young people to save money is to prepare themselves for unexpected events that may occur in the future. For instance, they might want to have some extra cash on hand in case of an emergency, such as a sudden illness or a job loss.
+
+**two**o achieve their long-term financial objectives. For example, they may want to save money for a down payment on a home, to start a business, or to pay for their education. By setting financial goals and saving money regularly, young people can take concrete steps towards achieving their dreams and building a secure financial future for themselves.
+
+**Is it easy for people to save money to buy something expensive?**
+
+**response:**It depends on the individual’s financial situation and priorities. 
+
+**one**some people may face unexpected emergencies or setbacks that prevent them from saving money. This could include job loss, illness, or a sudden expense that was not budgeted for. Without an emergency fund or other savings in place, these individuals may struggle to stay afloat financially, let alone save for the future.
+
+**two** For some people, saving money to buy something expensive may be easy if they have a stable income and are able to budget effectively.
+
+**Should children have pocket money? Why?**
+
+**response:**
+
+**one** One reason is that it can help children learn valuable financial lessons and develop good money management skills. By receiving a regular allowance, children can learn how to budget and plan their spending, which helps them develop a sense of financial responsibility from an early age
+
+**two** it can help them feel more independent and empowered. When given their own money, children can make their own decisions about how to spend it, which can give them a greater sense of freedom and control. This can help build their confidence and decision-making skills
+
+**Should children learn how to use money at school or from their parents?**
+
+**response:**
+
+**one**One reason for children to learn about money at school is that it canprovide a structured curriculum that teaches children about financial concepts, such as budgeting, saving, and investing. schools can ensure that all students have access to valuable resources and information about managing money, regardless of their background or home life.
+
+**two** they can provide real-life examples and practical lessons on money management. Parents can involve children in household budgeting, allowance systems, and decision-making processes. Parents can tailor their lessons to their children’s unique needs and circumstances, and can offer guidance and support throughout the learning process. 
+
+**How do people save money?**
+
+**response:**
+
+**one** First and foremost, one common way people save money is through budgeting. By creating a detailed budget, individuals can allocate specific amounts for various expenses and prioritize savings. 
+
+**two** many people opt for automated systems that transfer a predetermined amount from their income directly into a savings account. Additionally, buying second-hand products encourages recycling and sustainable living, which helps to protect the environment.
+
+**Why can’t some people save money?**
+
+**response:**
+
+**one**due to a lack of financial education. Many people have never been taught how to manage their money effectively, including budgeting, saving, and investing. Without a solid understanding of financial concepts, it can be difficult for individuals to develop good financial habits and make informed decisions about their spending and saving.
+
+**two**a high cost of living. For many people, living expenses like rent, transportation, and healthcare can consume a large portion of their income, leaving little left over for saving or investing. In some cases, people may struggle to find higher-paying jobs or access affordable housing, making it even harder to save money.
+
+**three**Finally, some people may face unexpected emergencies or setbacks that prevent them from saving money. This could include job loss, illness, or a sudden expense that was not budgeted for. Without an emergency fund or other savings in place, these individuals may struggle to stay afloat financially, let alone save for the future.
+
+### 2.5.6 **Describe a sports program you enjoy watching**
+
+You should say:
+
+What it is
+
+Where you watch it
+Who you like to watch it with
+And explain why you enjoy watching the program
+
+**response:**
+
+**one:**I really enjoy watching badminton matches on television. I usually watch them at home with my family, who are all fans of the sport.
+
+**two:**What I like about badminton is that it’s a fast-paced, dynamic game that requires a lot of athleticism, skill, and strategy. Watching the players move around the court and make split-second decisions is really exciting and impressive. I especially enjoy the singles matches, which can be particularly intense and dramatic.
+
+**three:**I also like that badminton is a sport that’s played all around the world, with many talented players from countries like China, Indonesia, and Denmark competing at the highest level. It’s always interesting to see how different players from different cultures bring their own unique styles and strengths to the game.
+
+**future:**Overall, I find badminton to be a really engaging and entertaining sport to watch, and I always look forward to tuning in to matches when they’re on.
+
+Part 3
+
+**Which sport do you think most people like to do? And why?**
+
+**response:**
+
+**one:**soccer is a very accessible sport; all you need is a ball and an open space to play in. This makes it easy for people of all ages and backgrounds to get involved in the sport.soccer has a long history and a well-established culture around it. The game has been played for centuries and is deeply ingrained in many national and regional identities. This has helped to create a large and passionate fan base, who support their favorite teams and players with great enthusiasm.
+
+**two:**soccer is a sport that’s played at both a professional and amateur level, with opportunities for people of all abilities to participate. Whether you’re a casual player or a serious athlete, there are leagues, clubs, and tournaments available for you to get involved in and enjoy the sport.
+
+**Do children need exercise?**
+
+**response:**
+
+**one:**Firstly, regular physical activity is crucial for children’s physical health. By engaging in exercise, children can develop strong bones and muscles, improve flexibility and coordination, and maintain a healthy weight. This can help to reduce the risk of obesity, heart disease, and other health problems later in life. 
+
+**two:** exercise is important for children’s mental health and emotional well-being. Research has shown that regular physical activity can help to reduce stress and anxiety, boost self-esteem, and improve mood. It can also help children develop social skills and form friendships, as they learn to work with others on sports teams or in other physical activities. 
+
+**What are the benefits of exercise?**
+
+**response:**
+
+**one:**Firstly, exercise is crucial for maintaining good physical health. By engaging in regular physical activity, individuals can maintain a healthy weight, improve cardiovascular health, strengthen bones and muscles, and reduce the risk of chronic diseases such as diabetes, heart disease, and certain types of cancer.
+
+**two:**Secondly, exercise is essential for improving mental health and well-being. Regular physical activity has been shown to boost mood, reduce stress and anxiety, and improve cognitive function. It can also help to alleviate symptoms of depression and other mental health conditions.
+
+**What can be done to get children into sport?**
+
+**response:**
+
+**one:**Firstly, parents and caregivers can be active role models for their children by participating in sports themselves or engaging in a regular exercise routine. Children who see their parents being physically active are more likely to see exercise as a regular part of their daily lives, and are more inclined to participate in sport themselves.
+
+**two:**Secondly, schools can play a key role in promoting sports participation among children. Offering a variety of sports and physical activity programs can help to introduce children to different activities and help them find sports or exercises they enjoy. Schools can also promote the benefits of sports participation to students and parents, and make sports programs accessible and affordable for all students. 
+
+**What sports programs do people like to watch in your country?**
+
+**response:**
+
+**one:**Firstly, football is the most popular sport in my country, and many people enjoy watching live matches and highlights of games on television. Football games are broadcasted on both free and paid channels, and people often gather with family and friends to watch the games together. During major football tournaments such as the World Cup or European Championship, the entire country gets swept up in the excitement and matches are watched by millions of people.
+
+**two:**Secondly, there is a growing interest in other sports, such as basketball, tennis, and volleyball. Many people enjoy watching international competitions, such as the NBA, Wimbledon, or the Olympics. These sports programs are also broadcasted on both free and paid channels, and they often generate a lot of buzz on social media. 
+
+**What’s the difference between watching sports on TV and watching it live?**
+
+**response:**
+
+**one:**watching sports on TV provides a comfortable and convenient experience. Viewers can sit in the comfort of their own home or a sports bar and watch the game without having to deal with crowds, lines, and other annoyances. Additionally, watching sports on TV allows for instant replays and close-ups that might be missed during a live event. This means viewers can see the action in detail and get a better understanding of the game.
+
+**two:**atching sports live provides an unparalleled sense of excitement and atmosphere. Fans who attend live events can feel the energy and excitement of the crowd, and the rush of being in the moment. Additionally, attending live events can be an opportunity for fans to connect with other people who share their passion for sports. 
 
 # 3 important Collocations
 
