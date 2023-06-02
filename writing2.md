@@ -723,5 +723,57 @@ On the one hand, 论点. because xxxxx.for instance,
 
 ## 6.5 报告型
 
+# 好坏**positive or negative**
 
+改写+I think it (is **completely/generally**/ a positive trend)/has both **advan&disadvan**.
+
+
+
+I believe that this trend can bring **benefits** such as xxx.
+
+However, we also need to acknowledge that this trend will have **negative impacts**, including xxx
+
+# 观点agree or disagree/比较
+
+改写+ I **completely agree/disagree** with this idea.
+
+On the contemporary world, the argument of XXX has always been a matter of interest. Some individuals argue that XXX. while it is a controversial topic, i still believe that their perspective gains great retionality.
+
+On the one hand, I am inclined to support their opinion for the benefits it offers in relation to XXX. This is due to 原因. Moreover, it holds significent weight in modern sociaty. For example, a recent study by hong kong university revealed that xxxx, which leads toxxxxx.
+
+hence, the advantages of this viewport are evident.
+
+For another thing, what matters most in XXX is xxxxx. because   xxxxx.强调句. To be more specific,例子。
+
+In conclusion, the downsides of XXX dissuate me from supporting it. Even though there may still exist benefits behind it, what I have mentioned can fully prove my stance.
+
+# 讨论
+
+In the contemporary world,XXX has been a matter of great interest. Some individuals maintain that xxxxxx, but other people believe that ..... While i do acknowledge that both of their perspectives have **their merits**, I am incline to support the latter.
+
+- First, some people argue that…
+
+ To begin with, (they believe that)...
+
+ For another, (they also claim that)...
+
+- However, other people argue that…
+
+On the one hand, it could be argued by some people that...
+
+On the other hand, a different perspective is held by others who believe that...
+
+# 图表
+
+趋势：
+
+波动：
+
+倍数：
+
+稳定：
+
+峰值：
+
+The two charts compare the population of two countries in terms of age distribution by gender in the year 1984.
 
